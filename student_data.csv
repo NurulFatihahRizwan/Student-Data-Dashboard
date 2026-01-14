@@ -1,0 +1,2001 @@
+StudentID,Level,Program,Country,Gender,IntakeYear,Status
+STU000001,Master,Psychology,United Kingdom,Male,2023,Deferred
+STU000002,Master,Medicine,Malaysia,Male,2021,Graduated
+STU000003,Bachelor,Engineering,South Korea,Male,2024,Deferred
+STU000004,Bachelor,Biology,Japan,Male,2024,Graduated
+STU000005,PhD,Arts,India,Male,2022,Graduated
+STU000006,Foundation,Medicine,United States,Female,2023,Deferred
+STU000007,PhD,Law,Australia,Female,2020,Deferred
+STU000008,Bachelor,Economics,Malaysia,Male,2024,Active
+STU000009,PhD,Chemistry,Philippines,Male,2021,Graduated
+STU000010,Bachelor,Chemistry,Australia,Female,2022,Active
+STU000011,Foundation,Mathematics,Australia,Female,2023,Graduated
+STU000012,Diploma,Economics,Thailand,Female,2022,Deferred
+STU000013,PhD,Physics,Japan,Female,2024,Active
+STU000014,Foundation,Arts,India,Male,2019,Active
+STU000015,Diploma,Engineering,South Korea,Female,2022,Active
+STU000016,PhD,Business Administration,India,Female,2019,Graduated
+STU000017,Foundation,Computer Science,Japan,Female,2019,Active
+STU000018,Diploma,Engineering,Philippines,Female,2019,Active
+STU000019,Diploma,Economics,Japan,Female,2023,Deferred
+STU000020,Foundation,Business Administration,Philippines,Female,2022,Graduated
+STU000021,Foundation,Law,Japan,Female,2024,Deferred
+STU000022,Diploma,Chemistry,Indonesia,Female,2019,Graduated
+STU000023,Diploma,Psychology,Canada,Female,2023,Active
+STU000024,Bachelor,Computer Science,Thailand,Female,2023,Graduated
+STU000025,Bachelor,Business Administration,Philippines,Male,2021,Graduated
+STU000026,Bachelor,Psychology,Indonesia,Male,2021,Active
+STU000027,Master,Engineering,Thailand,Female,2023,Graduated
+STU000028,PhD,Mathematics,Indonesia,Female,2021,Graduated
+STU000029,Diploma,Business Administration,United States,Female,2021,Graduated
+STU000030,PhD,Computer Science,South Korea,Female,2019,Deferred
+STU000031,Bachelor,Computer Science,Singapore,Male,2023,Graduated
+STU000032,PhD,Psychology,United Kingdom,Female,2021,Active
+STU000033,Foundation,Engineering,India,Male,2024,Active
+STU000034,PhD,Economics,Australia,Female,2019,Graduated
+STU000035,PhD,Mathematics,United Kingdom,Female,2024,Deferred
+STU000036,Bachelor,Biology,China,Male,2020,Deferred
+STU000037,Master,Engineering,Japan,Female,2019,Deferred
+STU000038,PhD,Engineering,Vietnam,Female,2024,Deferred
+STU000039,Diploma,Engineering,Vietnam,Female,2021,Graduated
+STU000040,PhD,Biology,China,Male,2019,Graduated
+STU000041,Master,Economics,Australia,Male,2023,Deferred
+STU000042,Foundation,Engineering,Indonesia,Female,2019,Deferred
+STU000043,Bachelor,Biology,Thailand,Male,2020,Deferred
+STU000044,Diploma,Physics,Singapore,Male,2019,Deferred
+STU000045,PhD,Chemistry,United States,Female,2021,Graduated
+STU000046,Bachelor,Medicine,India,Female,2024,Active
+STU000047,Diploma,Arts,Philippines,Female,2023,Graduated
+STU000048,Bachelor,Arts,Malaysia,Male,2021,Graduated
+STU000049,Foundation,Business Administration,Canada,Female,2021,Graduated
+STU000050,Foundation,Engineering,Canada,Male,2024,Deferred
+STU000051,Diploma,Mathematics,United Kingdom,Male,2020,Graduated
+STU000052,Diploma,Chemistry,Singapore,Female,2023,Graduated
+STU000053,PhD,Arts,Malaysia,Female,2020,Graduated
+STU000054,Bachelor,Physics,Australia,Female,2019,Graduated
+STU000055,Bachelor,Arts,South Korea,Female,2023,Graduated
+STU000056,Bachelor,Physics,Malaysia,Female,2024,Deferred
+STU000057,PhD,Arts,United Kingdom,Male,2019,Active
+STU000058,Master,Physics,United Kingdom,Female,2021,Active
+STU000059,Diploma,Business Administration,Japan,Female,2024,Active
+STU000060,Diploma,Economics,Japan,Male,2022,Graduated
+STU000061,Master,Computer Science,India,Female,2019,Active
+STU000062,Bachelor,Biology,Japan,Female,2021,Graduated
+STU000063,Master,Biology,Australia,Female,2023,Graduated
+STU000064,Foundation,Law,South Korea,Female,2021,Active
+STU000065,Diploma,Computer Science,Indonesia,Male,2021,Active
+STU000066,Foundation,Mathematics,Indonesia,Male,2021,Graduated
+STU000067,Foundation,Arts,Malaysia,Male,2022,Deferred
+STU000068,Master,Business Administration,Japan,Male,2022,Active
+STU000069,Bachelor,Economics,United Kingdom,Male,2020,Active
+STU000070,Diploma,Law,Australia,Male,2020,Deferred
+STU000071,Bachelor,Mathematics,United Kingdom,Female,2020,Active
+STU000072,PhD,Law,United States,Female,2023,Deferred
+STU000073,PhD,Engineering,Australia,Female,2023,Graduated
+STU000074,Foundation,Arts,Philippines,Male,2024,Active
+STU000075,Foundation,Mathematics,Malaysia,Male,2020,Deferred
+STU000076,Foundation,Computer Science,Japan,Male,2021,Active
+STU000077,Bachelor,Economics,Australia,Female,2023,Active
+STU000078,Foundation,Chemistry,Philippines,Female,2022,Active
+STU000079,Foundation,Arts,Indonesia,Male,2020,Graduated
+STU000080,Master,Chemistry,Japan,Female,2024,Deferred
+STU000081,Master,Biology,United States,Male,2021,Active
+STU000082,Bachelor,Business Administration,Philippines,Male,2020,Active
+STU000083,Master,Psychology,Vietnam,Female,2022,Deferred
+STU000084,Master,Mathematics,Singapore,Male,2022,Active
+STU000085,Foundation,Biology,Indonesia,Male,2021,Graduated
+STU000086,Foundation,Biology,United States,Male,2024,Active
+STU000087,Foundation,Medicine,India,Female,2022,Graduated
+STU000088,Bachelor,Psychology,South Korea,Male,2019,Graduated
+STU000089,Foundation,Engineering,Canada,Female,2019,Graduated
+STU000090,Foundation,Arts,Japan,Female,2020,Deferred
+STU000091,Foundation,Arts,China,Female,2022,Active
+STU000092,Bachelor,Physics,China,Male,2019,Graduated
+STU000093,Master,Medicine,Malaysia,Female,2019,Graduated
+STU000094,Bachelor,Law,Indonesia,Female,2024,Graduated
+STU000095,Foundation,Psychology,South Korea,Male,2019,Active
+STU000096,Foundation,Medicine,Philippines,Male,2021,Deferred
+STU000097,PhD,Physics,China,Male,2024,Graduated
+STU000098,PhD,Chemistry,Indonesia,Male,2024,Graduated
+STU000099,PhD,Chemistry,China,Male,2020,Deferred
+STU000100,PhD,Business Administration,Thailand,Female,2022,Deferred
+STU000101,Foundation,Arts,South Korea,Male,2022,Graduated
+STU000102,Master,Engineering,Philippines,Male,2022,Active
+STU000103,Master,Physics,Indonesia,Female,2022,Active
+STU000104,Master,Biology,Japan,Female,2022,Active
+STU000105,Foundation,Economics,China,Male,2020,Graduated
+STU000106,Diploma,Engineering,Japan,Female,2024,Graduated
+STU000107,PhD,Physics,Singapore,Male,2022,Graduated
+STU000108,PhD,Biology,United Kingdom,Female,2021,Active
+STU000109,Diploma,Arts,Indonesia,Male,2019,Deferred
+STU000110,Foundation,Chemistry,Vietnam,Male,2020,Deferred
+STU000111,Bachelor,Engineering,Singapore,Male,2021,Deferred
+STU000112,Foundation,Economics,Singapore,Female,2022,Active
+STU000113,Bachelor,Biology,Singapore,Female,2022,Deferred
+STU000114,Master,Chemistry,Vietnam,Male,2024,Graduated
+STU000115,PhD,Mathematics,Australia,Female,2022,Deferred
+STU000116,Foundation,Business Administration,South Korea,Male,2024,Graduated
+STU000117,Master,Law,Philippines,Male,2019,Active
+STU000118,PhD,Chemistry,India,Male,2023,Active
+STU000119,Bachelor,Chemistry,Vietnam,Female,2020,Active
+STU000120,Diploma,Computer Science,Indonesia,Female,2023,Active
+STU000121,Bachelor,Chemistry,Indonesia,Female,2020,Deferred
+STU000122,PhD,Biology,Canada,Female,2020,Graduated
+STU000123,Foundation,Physics,Australia,Male,2020,Deferred
+STU000124,Master,Business Administration,United States,Female,2021,Graduated
+STU000125,Foundation,Computer Science,Thailand,Female,2022,Active
+STU000126,Master,Chemistry,Canada,Female,2022,Active
+STU000127,Bachelor,Psychology,Japan,Female,2019,Active
+STU000128,Diploma,Arts,Philippines,Female,2024,Active
+STU000129,Foundation,Psychology,Malaysia,Female,2022,Active
+STU000130,Diploma,Economics,Japan,Female,2021,Active
+STU000131,Bachelor,Physics,India,Female,2020,Deferred
+STU000132,Master,Economics,India,Male,2019,Active
+STU000133,Bachelor,Engineering,Vietnam,Male,2024,Graduated
+STU000134,Bachelor,Mathematics,Malaysia,Female,2019,Graduated
+STU000135,Diploma,Economics,Thailand,Female,2020,Deferred
+STU000136,Foundation,Medicine,India,Male,2020,Deferred
+STU000137,Bachelor,Engineering,United States,Female,2024,Graduated
+STU000138,Foundation,Computer Science,South Korea,Female,2019,Deferred
+STU000139,Master,Engineering,China,Female,2023,Graduated
+STU000140,PhD,Business Administration,Thailand,Female,2020,Graduated
+STU000141,PhD,Biology,United Kingdom,Female,2020,Deferred
+STU000142,PhD,Economics,Philippines,Female,2020,Active
+STU000143,Foundation,Medicine,Thailand,Female,2019,Graduated
+STU000144,Bachelor,Mathematics,Vietnam,Male,2023,Active
+STU000145,PhD,Business Administration,Philippines,Female,2024,Graduated
+STU000146,PhD,Arts,Thailand,Male,2020,Active
+STU000147,Foundation,Business Administration,Singapore,Female,2020,Deferred
+STU000148,Diploma,Mathematics,United Kingdom,Male,2023,Graduated
+STU000149,Master,Chemistry,Malaysia,Male,2019,Active
+STU000150,Diploma,Medicine,South Korea,Female,2021,Deferred
+STU000151,PhD,Chemistry,United States,Female,2024,Active
+STU000152,Diploma,Economics,Philippines,Male,2022,Deferred
+STU000153,Foundation,Medicine,Singapore,Male,2021,Deferred
+STU000154,Foundation,Arts,Singapore,Female,2023,Deferred
+STU000155,Master,Business Administration,Malaysia,Female,2021,Graduated
+STU000156,Bachelor,Law,Philippines,Male,2020,Active
+STU000157,Bachelor,Psychology,Indonesia,Male,2023,Deferred
+STU000158,Bachelor,Physics,China,Female,2023,Deferred
+STU000159,Bachelor,Physics,United Kingdom,Female,2023,Active
+STU000160,Foundation,Biology,South Korea,Male,2020,Deferred
+STU000161,Foundation,Chemistry,United Kingdom,Male,2019,Active
+STU000162,Diploma,Computer Science,Thailand,Male,2024,Deferred
+STU000163,Foundation,Engineering,Indonesia,Female,2020,Active
+STU000164,Diploma,Biology,Japan,Female,2019,Deferred
+STU000165,Master,Mathematics,Indonesia,Male,2021,Active
+STU000166,Foundation,Psychology,Japan,Male,2022,Deferred
+STU000167,Master,Mathematics,India,Male,2024,Deferred
+STU000168,Foundation,Physics,United States,Female,2024,Active
+STU000169,Master,Mathematics,Singapore,Male,2019,Active
+STU000170,PhD,Mathematics,Indonesia,Female,2022,Graduated
+STU000171,Master,Biology,South Korea,Female,2024,Deferred
+STU000172,Bachelor,Engineering,Malaysia,Male,2020,Active
+STU000173,Foundation,Physics,Philippines,Male,2021,Active
+STU000174,Diploma,Law,Singapore,Male,2019,Deferred
+STU000175,Master,Mathematics,South Korea,Male,2020,Graduated
+STU000176,Diploma,Biology,Thailand,Male,2024,Deferred
+STU000177,Diploma,Arts,United Kingdom,Female,2023,Graduated
+STU000178,PhD,Psychology,Singapore,Female,2020,Active
+STU000179,Bachelor,Mathematics,United States,Female,2022,Graduated
+STU000180,PhD,Economics,United States,Male,2022,Graduated
+STU000181,Bachelor,Business Administration,Vietnam,Female,2023,Active
+STU000182,Bachelor,Chemistry,United Kingdom,Male,2024,Graduated
+STU000183,Foundation,Engineering,South Korea,Male,2022,Active
+STU000184,PhD,Mathematics,United Kingdom,Female,2023,Graduated
+STU000185,Foundation,Medicine,Thailand,Male,2023,Active
+STU000186,Foundation,Engineering,China,Male,2020,Graduated
+STU000187,PhD,Computer Science,Singapore,Female,2022,Deferred
+STU000188,PhD,Mathematics,Japan,Female,2024,Graduated
+STU000189,Diploma,Engineering,Malaysia,Female,2021,Graduated
+STU000190,Diploma,Business Administration,Malaysia,Female,2022,Deferred
+STU000191,Bachelor,Law,United States,Female,2019,Deferred
+STU000192,Bachelor,Economics,United States,Male,2019,Active
+STU000193,Bachelor,Arts,United States,Male,2022,Active
+STU000194,Diploma,Computer Science,United Kingdom,Female,2023,Graduated
+STU000195,Bachelor,Chemistry,Indonesia,Female,2020,Active
+STU000196,Diploma,Arts,South Korea,Male,2021,Active
+STU000197,Master,Biology,Australia,Male,2020,Graduated
+STU000198,Diploma,Arts,United States,Female,2021,Active
+STU000199,Diploma,Chemistry,Malaysia,Male,2023,Graduated
+STU000200,Bachelor,Business Administration,Philippines,Female,2021,Graduated
+STU000201,PhD,Business Administration,Singapore,Female,2019,Deferred
+STU000202,Bachelor,Chemistry,China,Female,2022,Deferred
+STU000203,Foundation,Economics,United States,Male,2023,Deferred
+STU000204,Diploma,Medicine,Singapore,Male,2020,Deferred
+STU000205,Diploma,Economics,United Kingdom,Female,2021,Graduated
+STU000206,Diploma,Arts,United Kingdom,Male,2022,Graduated
+STU000207,Diploma,Engineering,South Korea,Female,2023,Deferred
+STU000208,PhD,Law,Malaysia,Female,2022,Graduated
+STU000209,Diploma,Chemistry,Japan,Male,2024,Graduated
+STU000210,Foundation,Psychology,United Kingdom,Male,2024,Deferred
+STU000211,PhD,Engineering,Philippines,Female,2022,Deferred
+STU000212,PhD,Medicine,India,Male,2024,Active
+STU000213,Master,Psychology,Vietnam,Female,2020,Graduated
+STU000214,Master,Psychology,Malaysia,Male,2020,Active
+STU000215,PhD,Chemistry,United States,Male,2022,Deferred
+STU000216,Diploma,Psychology,Malaysia,Female,2021,Graduated
+STU000217,Foundation,Engineering,Singapore,Male,2022,Deferred
+STU000218,Master,Biology,China,Female,2021,Graduated
+STU000219,Master,Engineering,United States,Male,2023,Graduated
+STU000220,Foundation,Medicine,South Korea,Female,2021,Deferred
+STU000221,Master,Mathematics,Indonesia,Female,2021,Graduated
+STU000222,PhD,Mathematics,Canada,Male,2024,Deferred
+STU000223,PhD,Medicine,Philippines,Female,2022,Graduated
+STU000224,PhD,Psychology,Australia,Female,2024,Active
+STU000225,Diploma,Mathematics,China,Male,2024,Active
+STU000226,PhD,Economics,India,Female,2020,Active
+STU000227,Master,Engineering,Malaysia,Male,2021,Deferred
+STU000228,Master,Physics,Australia,Female,2023,Deferred
+STU000229,PhD,Economics,Thailand,Male,2024,Graduated
+STU000230,Bachelor,Law,Canada,Male,2020,Active
+STU000231,PhD,Physics,United States,Male,2020,Graduated
+STU000232,Diploma,Arts,Japan,Female,2024,Graduated
+STU000233,Bachelor,Law,Indonesia,Female,2019,Active
+STU000234,Foundation,Medicine,United States,Male,2020,Active
+STU000235,Diploma,Physics,Indonesia,Female,2023,Active
+STU000236,PhD,Chemistry,Indonesia,Female,2020,Graduated
+STU000237,PhD,Mathematics,Singapore,Male,2023,Active
+STU000238,Foundation,Psychology,Indonesia,Female,2019,Active
+STU000239,Master,Medicine,Vietnam,Male,2021,Deferred
+STU000240,Foundation,Engineering,United States,Female,2021,Graduated
+STU000241,Foundation,Business Administration,Thailand,Female,2024,Active
+STU000242,PhD,Physics,United Kingdom,Male,2022,Active
+STU000243,Foundation,Mathematics,Malaysia,Male,2022,Graduated
+STU000244,PhD,Mathematics,Japan,Male,2024,Graduated
+STU000245,Diploma,Chemistry,Indonesia,Female,2020,Deferred
+STU000246,PhD,Business Administration,Singapore,Female,2023,Deferred
+STU000247,Diploma,Engineering,Australia,Male,2022,Deferred
+STU000248,Diploma,Arts,Malaysia,Male,2023,Deferred
+STU000249,Diploma,Computer Science,United States,Female,2022,Graduated
+STU000250,Diploma,Arts,Philippines,Male,2020,Graduated
+STU000251,Foundation,Physics,China,Female,2020,Active
+STU000252,Diploma,Medicine,Japan,Male,2023,Deferred
+STU000253,Master,Computer Science,Vietnam,Female,2021,Deferred
+STU000254,Master,Chemistry,Singapore,Male,2024,Graduated
+STU000255,Bachelor,Business Administration,Singapore,Male,2019,Deferred
+STU000256,Diploma,Chemistry,Singapore,Male,2019,Active
+STU000257,Bachelor,Engineering,Philippines,Male,2019,Active
+STU000258,Bachelor,Engineering,India,Female,2022,Deferred
+STU000259,Foundation,Physics,Thailand,Female,2022,Graduated
+STU000260,Bachelor,Mathematics,Malaysia,Male,2024,Active
+STU000261,Diploma,Business Administration,Thailand,Female,2024,Active
+STU000262,Foundation,Physics,India,Male,2019,Active
+STU000263,Bachelor,Mathematics,United States,Female,2021,Graduated
+STU000264,Master,Medicine,India,Male,2019,Active
+STU000265,Bachelor,Law,Thailand,Female,2022,Graduated
+STU000266,Bachelor,Computer Science,Japan,Male,2020,Deferred
+STU000267,Bachelor,Chemistry,South Korea,Female,2023,Graduated
+STU000268,Bachelor,Medicine,China,Female,2024,Deferred
+STU000269,Foundation,Computer Science,South Korea,Male,2024,Deferred
+STU000270,Master,Law,Singapore,Male,2020,Deferred
+STU000271,Master,Computer Science,Malaysia,Female,2021,Graduated
+STU000272,Diploma,Medicine,Japan,Female,2020,Active
+STU000273,Diploma,Biology,Philippines,Male,2019,Graduated
+STU000274,Bachelor,Chemistry,Japan,Male,2020,Active
+STU000275,Foundation,Chemistry,United Kingdom,Female,2019,Active
+STU000276,PhD,Mathematics,Philippines,Female,2020,Deferred
+STU000277,Diploma,Physics,South Korea,Male,2021,Active
+STU000278,Bachelor,Arts,Indonesia,Male,2019,Graduated
+STU000279,Diploma,Medicine,Indonesia,Male,2020,Graduated
+STU000280,Bachelor,Economics,United States,Female,2019,Active
+STU000281,Diploma,Law,United Kingdom,Female,2021,Active
+STU000282,Master,Arts,United States,Female,2019,Active
+STU000283,Foundation,Medicine,United Kingdom,Male,2023,Graduated
+STU000284,Bachelor,Chemistry,Canada,Male,2021,Graduated
+STU000285,Foundation,Physics,China,Male,2024,Deferred
+STU000286,Foundation,Economics,Indonesia,Female,2024,Deferred
+STU000287,Diploma,Psychology,India,Male,2020,Deferred
+STU000288,Foundation,Economics,Philippines,Female,2023,Deferred
+STU000289,Diploma,Economics,Malaysia,Female,2024,Active
+STU000290,Bachelor,Computer Science,Indonesia,Male,2024,Active
+STU000291,Foundation,Psychology,South Korea,Male,2020,Deferred
+STU000292,Master,Arts,Thailand,Male,2022,Graduated
+STU000293,Master,Economics,Australia,Male,2020,Active
+STU000294,Master,Mathematics,Thailand,Male,2019,Deferred
+STU000295,PhD,Computer Science,Thailand,Male,2019,Active
+STU000296,Diploma,Chemistry,Japan,Male,2022,Deferred
+STU000297,Bachelor,Law,China,Female,2024,Graduated
+STU000298,PhD,Arts,United States,Female,2022,Graduated
+STU000299,PhD,Economics,India,Male,2023,Active
+STU000300,Foundation,Law,China,Female,2021,Deferred
+STU000301,PhD,Engineering,Indonesia,Male,2021,Active
+STU000302,Master,Chemistry,Thailand,Male,2024,Deferred
+STU000303,Diploma,Mathematics,Japan,Female,2024,Deferred
+STU000304,PhD,Biology,Philippines,Female,2019,Deferred
+STU000305,Master,Computer Science,Japan,Female,2023,Active
+STU000306,Bachelor,Biology,Singapore,Female,2023,Active
+STU000307,Foundation,Engineering,United Kingdom,Female,2023,Deferred
+STU000308,Foundation,Arts,United States,Female,2023,Graduated
+STU000309,PhD,Economics,United Kingdom,Female,2021,Deferred
+STU000310,Master,Psychology,South Korea,Female,2020,Graduated
+STU000311,PhD,Biology,Malaysia,Male,2024,Graduated
+STU000312,PhD,Medicine,Vietnam,Female,2020,Deferred
+STU000313,Diploma,Biology,Australia,Male,2024,Deferred
+STU000314,Master,Medicine,Australia,Female,2022,Graduated
+STU000315,PhD,Psychology,China,Female,2022,Graduated
+STU000316,Master,Computer Science,Vietnam,Female,2019,Active
+STU000317,PhD,Arts,Philippines,Female,2024,Deferred
+STU000318,PhD,Arts,China,Male,2023,Deferred
+STU000319,Bachelor,Mathematics,China,Male,2020,Deferred
+STU000320,Bachelor,Psychology,Singapore,Male,2019,Deferred
+STU000321,Diploma,Engineering,Singapore,Female,2023,Graduated
+STU000322,Master,Engineering,China,Female,2021,Deferred
+STU000323,Foundation,Engineering,Japan,Female,2020,Deferred
+STU000324,Diploma,Psychology,Indonesia,Male,2019,Deferred
+STU000325,Diploma,Business Administration,Japan,Female,2019,Active
+STU000326,Foundation,Business Administration,Japan,Male,2024,Active
+STU000327,Master,Computer Science,Canada,Male,2024,Deferred
+STU000328,Foundation,Biology,India,Male,2023,Graduated
+STU000329,PhD,Medicine,United Kingdom,Male,2021,Deferred
+STU000330,Bachelor,Business Administration,Singapore,Female,2022,Active
+STU000331,Bachelor,Computer Science,United Kingdom,Female,2024,Graduated
+STU000332,PhD,Chemistry,Japan,Male,2022,Deferred
+STU000333,Foundation,Mathematics,Philippines,Male,2023,Active
+STU000334,PhD,Psychology,Australia,Female,2019,Active
+STU000335,PhD,Mathematics,Singapore,Female,2019,Deferred
+STU000336,Foundation,Engineering,India,Female,2020,Deferred
+STU000337,Foundation,Business Administration,Japan,Male,2023,Graduated
+STU000338,PhD,Biology,United States,Male,2019,Active
+STU000339,PhD,Computer Science,United Kingdom,Female,2022,Deferred
+STU000340,Master,Mathematics,Singapore,Female,2023,Active
+STU000341,PhD,Economics,India,Female,2024,Active
+STU000342,Master,Chemistry,Philippines,Male,2020,Graduated
+STU000343,PhD,Business Administration,Thailand,Female,2022,Graduated
+STU000344,PhD,Law,Indonesia,Female,2019,Graduated
+STU000345,PhD,Chemistry,Canada,Female,2023,Active
+STU000346,Diploma,Engineering,Philippines,Female,2024,Deferred
+STU000347,Diploma,Arts,India,Female,2024,Graduated
+STU000348,Diploma,Mathematics,Philippines,Male,2020,Active
+STU000349,Bachelor,Computer Science,Canada,Male,2022,Deferred
+STU000350,Master,Mathematics,China,Male,2019,Active
+STU000351,Foundation,Medicine,United Kingdom,Male,2020,Deferred
+STU000352,Bachelor,Engineering,South Korea,Male,2020,Active
+STU000353,Diploma,Computer Science,Malaysia,Female,2019,Active
+STU000354,Foundation,Physics,India,Female,2023,Graduated
+STU000355,Diploma,Computer Science,Singapore,Female,2020,Graduated
+STU000356,PhD,Psychology,India,Female,2024,Graduated
+STU000357,Foundation,Law,Philippines,Female,2019,Deferred
+STU000358,Diploma,Business Administration,China,Male,2023,Graduated
+STU000359,Diploma,Arts,Vietnam,Female,2019,Graduated
+STU000360,PhD,Computer Science,India,Female,2023,Graduated
+STU000361,Diploma,Business Administration,China,Male,2021,Deferred
+STU000362,Master,Physics,Australia,Male,2023,Deferred
+STU000363,Bachelor,Mathematics,Japan,Male,2022,Graduated
+STU000364,Diploma,Economics,South Korea,Male,2022,Deferred
+STU000365,Diploma,Chemistry,Malaysia,Female,2023,Active
+STU000366,Foundation,Mathematics,United Kingdom,Female,2021,Graduated
+STU000367,Foundation,Chemistry,India,Male,2019,Deferred
+STU000368,Master,Engineering,Singapore,Female,2020,Graduated
+STU000369,Bachelor,Arts,United States,Female,2021,Active
+STU000370,PhD,Economics,Thailand,Male,2022,Graduated
+STU000371,PhD,Biology,Malaysia,Female,2020,Active
+STU000372,Foundation,Psychology,Singapore,Male,2022,Graduated
+STU000373,Master,Engineering,Malaysia,Female,2024,Deferred
+STU000374,Bachelor,Biology,Vietnam,Female,2021,Graduated
+STU000375,Foundation,Law,South Korea,Female,2020,Graduated
+STU000376,Diploma,Biology,Thailand,Male,2021,Deferred
+STU000377,Foundation,Physics,Philippines,Male,2023,Deferred
+STU000378,PhD,Arts,South Korea,Male,2019,Active
+STU000379,Bachelor,Biology,Philippines,Male,2023,Active
+STU000380,Diploma,Arts,Vietnam,Male,2022,Active
+STU000381,PhD,Biology,Singapore,Female,2024,Deferred
+STU000382,Diploma,Economics,United States,Male,2023,Deferred
+STU000383,Foundation,Psychology,Canada,Male,2021,Graduated
+STU000384,Bachelor,Physics,Thailand,Female,2022,Graduated
+STU000385,Diploma,Mathematics,United States,Female,2023,Graduated
+STU000386,PhD,Law,Indonesia,Female,2020,Graduated
+STU000387,PhD,Arts,China,Male,2021,Active
+STU000388,PhD,Arts,Singapore,Female,2023,Deferred
+STU000389,Diploma,Law,Canada,Female,2024,Active
+STU000390,PhD,Medicine,Singapore,Female,2020,Deferred
+STU000391,Bachelor,Chemistry,Philippines,Female,2021,Graduated
+STU000392,Bachelor,Medicine,Philippines,Female,2019,Deferred
+STU000393,Foundation,Medicine,China,Male,2023,Graduated
+STU000394,Diploma,Law,United Kingdom,Female,2022,Active
+STU000395,Bachelor,Chemistry,Philippines,Male,2019,Deferred
+STU000396,Master,Psychology,South Korea,Male,2020,Deferred
+STU000397,Diploma,Biology,Philippines,Female,2021,Graduated
+STU000398,Master,Mathematics,South Korea,Male,2019,Active
+STU000399,Bachelor,Psychology,Canada,Female,2024,Graduated
+STU000400,Bachelor,Arts,Malaysia,Female,2022,Graduated
+STU000401,Bachelor,Arts,United States,Male,2021,Deferred
+STU000402,Diploma,Business Administration,Philippines,Female,2020,Active
+STU000403,Master,Physics,India,Female,2019,Deferred
+STU000404,PhD,Computer Science,Canada,Male,2023,Graduated
+STU000405,Master,Economics,Japan,Female,2024,Deferred
+STU000406,PhD,Chemistry,United States,Female,2019,Graduated
+STU000407,Master,Law,Malaysia,Female,2022,Deferred
+STU000408,PhD,Biology,China,Male,2022,Graduated
+STU000409,PhD,Engineering,Australia,Female,2022,Graduated
+STU000410,Bachelor,Chemistry,Philippines,Male,2020,Graduated
+STU000411,Bachelor,Computer Science,Philippines,Male,2021,Graduated
+STU000412,Foundation,Computer Science,India,Male,2020,Active
+STU000413,Master,Chemistry,India,Female,2023,Active
+STU000414,Foundation,Computer Science,South Korea,Female,2023,Active
+STU000415,PhD,Mathematics,Vietnam,Male,2022,Active
+STU000416,Foundation,Chemistry,China,Female,2020,Active
+STU000417,Diploma,Physics,Australia,Male,2022,Deferred
+STU000418,Master,Biology,Indonesia,Female,2021,Active
+STU000419,PhD,Business Administration,Philippines,Male,2024,Graduated
+STU000420,Master,Biology,United States,Female,2019,Graduated
+STU000421,Bachelor,Psychology,Indonesia,Male,2020,Graduated
+STU000422,Bachelor,Economics,Thailand,Male,2022,Deferred
+STU000423,Bachelor,Engineering,Singapore,Female,2023,Graduated
+STU000424,Foundation,Physics,United Kingdom,Male,2019,Graduated
+STU000425,PhD,Law,China,Female,2023,Graduated
+STU000426,Master,Chemistry,Japan,Male,2020,Active
+STU000427,Master,Medicine,Japan,Female,2022,Deferred
+STU000428,PhD,Economics,South Korea,Female,2020,Active
+STU000429,PhD,Mathematics,Malaysia,Male,2022,Graduated
+STU000430,Diploma,Engineering,United States,Female,2024,Active
+STU000431,Bachelor,Business Administration,Malaysia,Female,2019,Graduated
+STU000432,Diploma,Medicine,United Kingdom,Male,2020,Active
+STU000433,Foundation,Business Administration,United States,Female,2021,Active
+STU000434,Master,Medicine,Vietnam,Male,2024,Active
+STU000435,PhD,Economics,Australia,Male,2022,Graduated
+STU000436,Bachelor,Engineering,Japan,Female,2021,Active
+STU000437,Master,Psychology,Vietnam,Female,2024,Graduated
+STU000438,Bachelor,Computer Science,Thailand,Male,2021,Deferred
+STU000439,Bachelor,Chemistry,Philippines,Male,2023,Deferred
+STU000440,Foundation,Biology,India,Female,2021,Graduated
+STU000441,Diploma,Engineering,United States,Female,2021,Active
+STU000442,Bachelor,Law,Philippines,Male,2020,Deferred
+STU000443,Foundation,Computer Science,Singapore,Female,2019,Deferred
+STU000444,Master,Biology,United States,Male,2021,Active
+STU000445,Master,Economics,United States,Female,2024,Deferred
+STU000446,PhD,Medicine,South Korea,Female,2020,Deferred
+STU000447,Master,Chemistry,India,Female,2022,Graduated
+STU000448,Diploma,Biology,United Kingdom,Male,2019,Deferred
+STU000449,Foundation,Law,Indonesia,Female,2023,Active
+STU000450,Master,Mathematics,United Kingdom,Female,2019,Active
+STU000451,Foundation,Arts,Vietnam,Male,2021,Deferred
+STU000452,PhD,Biology,Australia,Male,2019,Active
+STU000453,Bachelor,Economics,Philippines,Male,2021,Deferred
+STU000454,Bachelor,Physics,Japan,Male,2024,Deferred
+STU000455,Master,Business Administration,Vietnam,Female,2019,Deferred
+STU000456,Bachelor,Medicine,Singapore,Male,2022,Active
+STU000457,Master,Business Administration,United States,Male,2019,Graduated
+STU000458,PhD,Biology,South Korea,Female,2020,Graduated
+STU000459,Bachelor,Arts,Thailand,Female,2021,Deferred
+STU000460,Bachelor,Biology,Japan,Male,2021,Deferred
+STU000461,Foundation,Engineering,Singapore,Female,2021,Graduated
+STU000462,PhD,Arts,India,Female,2020,Active
+STU000463,PhD,Arts,Canada,Male,2023,Active
+STU000464,Bachelor,Biology,Thailand,Male,2019,Graduated
+STU000465,Master,Mathematics,Australia,Female,2022,Graduated
+STU000466,Master,Biology,Indonesia,Female,2023,Active
+STU000467,Foundation,Computer Science,United States,Female,2019,Deferred
+STU000468,Foundation,Medicine,Japan,Male,2022,Deferred
+STU000469,Bachelor,Biology,Australia,Male,2019,Graduated
+STU000470,Bachelor,Biology,Philippines,Female,2020,Graduated
+STU000471,Diploma,Biology,Singapore,Male,2019,Deferred
+STU000472,Foundation,Arts,Japan,Female,2024,Active
+STU000473,Bachelor,Arts,Philippines,Female,2024,Active
+STU000474,Foundation,Biology,South Korea,Female,2020,Deferred
+STU000475,Bachelor,Computer Science,India,Female,2022,Graduated
+STU000476,Bachelor,Law,Thailand,Female,2020,Graduated
+STU000477,Bachelor,Chemistry,Thailand,Male,2019,Deferred
+STU000478,PhD,Mathematics,Thailand,Male,2020,Deferred
+STU000479,Bachelor,Business Administration,Vietnam,Female,2023,Graduated
+STU000480,Foundation,Biology,Vietnam,Female,2021,Active
+STU000481,Foundation,Biology,Philippines,Female,2023,Graduated
+STU000482,Diploma,Engineering,India,Female,2023,Graduated
+STU000483,Foundation,Physics,Australia,Female,2024,Deferred
+STU000484,Foundation,Engineering,Singapore,Male,2022,Deferred
+STU000485,Master,Business Administration,United States,Female,2019,Deferred
+STU000486,Bachelor,Physics,Australia,Female,2021,Graduated
+STU000487,Bachelor,Biology,Malaysia,Female,2020,Deferred
+STU000488,Master,Chemistry,China,Female,2020,Active
+STU000489,Bachelor,Physics,Thailand,Female,2022,Graduated
+STU000490,Diploma,Economics,China,Male,2021,Active
+STU000491,PhD,Arts,China,Female,2020,Graduated
+STU000492,Master,Economics,United States,Male,2023,Deferred
+STU000493,Master,Business Administration,Japan,Female,2019,Deferred
+STU000494,Diploma,Economics,Vietnam,Female,2023,Graduated
+STU000495,PhD,Economics,United Kingdom,Male,2019,Active
+STU000496,PhD,Engineering,Japan,Female,2021,Active
+STU000497,PhD,Law,Thailand,Female,2023,Deferred
+STU000498,PhD,Mathematics,India,Male,2022,Graduated
+STU000499,Bachelor,Chemistry,Canada,Male,2022,Deferred
+STU000500,Diploma,Business Administration,Indonesia,Male,2020,Graduated
+STU000501,PhD,Engineering,Philippines,Male,2021,Active
+STU000502,Foundation,Psychology,United Kingdom,Female,2023,Graduated
+STU000503,Bachelor,Medicine,Canada,Male,2020,Deferred
+STU000504,Foundation,Physics,China,Male,2019,Deferred
+STU000505,Foundation,Business Administration,Singapore,Male,2024,Deferred
+STU000506,PhD,Mathematics,Australia,Male,2019,Deferred
+STU000507,Diploma,Biology,Canada,Female,2021,Deferred
+STU000508,PhD,Business Administration,China,Male,2019,Active
+STU000509,Foundation,Economics,Japan,Female,2019,Active
+STU000510,Bachelor,Arts,China,Female,2024,Deferred
+STU000511,PhD,Arts,Thailand,Female,2021,Deferred
+STU000512,Diploma,Computer Science,Philippines,Female,2022,Deferred
+STU000513,Bachelor,Arts,United Kingdom,Female,2023,Graduated
+STU000514,Bachelor,Law,South Korea,Female,2022,Deferred
+STU000515,Diploma,Arts,Canada,Female,2021,Active
+STU000516,Bachelor,Mathematics,South Korea,Female,2020,Active
+STU000517,Foundation,Psychology,South Korea,Male,2020,Deferred
+STU000518,Diploma,Biology,South Korea,Male,2022,Deferred
+STU000519,PhD,Economics,Canada,Male,2019,Graduated
+STU000520,Bachelor,Biology,Indonesia,Female,2022,Graduated
+STU000521,Foundation,Arts,Vietnam,Male,2024,Active
+STU000522,Master,Chemistry,Indonesia,Female,2020,Active
+STU000523,Master,Law,United States,Female,2022,Graduated
+STU000524,PhD,Physics,United States,Male,2020,Deferred
+STU000525,Bachelor,Physics,Thailand,Male,2023,Graduated
+STU000526,Diploma,Law,Singapore,Male,2024,Active
+STU000527,Bachelor,Psychology,Malaysia,Male,2024,Active
+STU000528,Diploma,Engineering,South Korea,Female,2021,Deferred
+STU000529,PhD,Biology,Thailand,Female,2024,Deferred
+STU000530,Bachelor,Physics,India,Female,2023,Deferred
+STU000531,Foundation,Law,Singapore,Male,2023,Graduated
+STU000532,PhD,Economics,Philippines,Male,2019,Deferred
+STU000533,Master,Psychology,United States,Female,2019,Graduated
+STU000534,Master,Arts,Indonesia,Female,2023,Graduated
+STU000535,Diploma,Medicine,Australia,Male,2024,Deferred
+STU000536,PhD,Biology,Malaysia,Male,2022,Deferred
+STU000537,Master,Computer Science,Thailand,Female,2020,Graduated
+STU000538,Foundation,Computer Science,Vietnam,Female,2021,Active
+STU000539,Diploma,Economics,India,Female,2023,Graduated
+STU000540,Diploma,Computer Science,Indonesia,Male,2020,Deferred
+STU000541,Diploma,Law,Indonesia,Male,2021,Active
+STU000542,PhD,Biology,Japan,Male,2021,Graduated
+STU000543,Master,Law,Thailand,Male,2024,Deferred
+STU000544,Master,Engineering,Singapore,Female,2023,Deferred
+STU000545,Bachelor,Law,Malaysia,Female,2021,Active
+STU000546,Bachelor,Physics,Vietnam,Male,2020,Graduated
+STU000547,Foundation,Chemistry,Vietnam,Male,2022,Deferred
+STU000548,PhD,Biology,Japan,Female,2019,Active
+STU000549,Master,Engineering,Indonesia,Female,2022,Deferred
+STU000550,Diploma,Chemistry,Singapore,Female,2022,Deferred
+STU000551,Foundation,Computer Science,Vietnam,Male,2021,Deferred
+STU000552,PhD,Computer Science,Canada,Male,2023,Deferred
+STU000553,Bachelor,Law,United Kingdom,Female,2022,Active
+STU000554,Foundation,Business Administration,United Kingdom,Female,2019,Graduated
+STU000555,Foundation,Mathematics,Australia,Male,2020,Active
+STU000556,Bachelor,Physics,South Korea,Female,2019,Graduated
+STU000557,Master,Economics,Canada,Male,2019,Deferred
+STU000558,Diploma,Chemistry,Japan,Female,2024,Graduated
+STU000559,Foundation,Economics,Vietnam,Female,2021,Graduated
+STU000560,Foundation,Business Administration,Japan,Female,2022,Graduated
+STU000561,Diploma,Business Administration,South Korea,Female,2023,Graduated
+STU000562,PhD,Business Administration,Canada,Male,2022,Graduated
+STU000563,Master,Biology,Canada,Female,2019,Graduated
+STU000564,Foundation,Biology,Malaysia,Female,2023,Deferred
+STU000565,Master,Mathematics,Singapore,Female,2023,Deferred
+STU000566,Foundation,Engineering,Thailand,Female,2024,Active
+STU000567,Foundation,Medicine,Vietnam,Female,2022,Graduated
+STU000568,Master,Economics,United States,Male,2019,Active
+STU000569,Diploma,Law,China,Female,2023,Graduated
+STU000570,Bachelor,Law,Canada,Male,2021,Deferred
+STU000571,Diploma,Physics,Canada,Male,2022,Graduated
+STU000572,Diploma,Business Administration,United States,Female,2019,Deferred
+STU000573,Master,Law,Philippines,Female,2024,Graduated
+STU000574,Diploma,Physics,South Korea,Male,2019,Graduated
+STU000575,PhD,Economics,Japan,Female,2024,Graduated
+STU000576,Diploma,Biology,Canada,Female,2022,Graduated
+STU000577,PhD,Engineering,Malaysia,Male,2022,Graduated
+STU000578,Foundation,Medicine,United States,Female,2019,Active
+STU000579,Foundation,Medicine,United Kingdom,Male,2019,Graduated
+STU000580,Foundation,Biology,Philippines,Male,2021,Active
+STU000581,Master,Business Administration,Singapore,Female,2023,Active
+STU000582,Bachelor,Economics,Singapore,Female,2020,Active
+STU000583,Bachelor,Physics,China,Male,2020,Graduated
+STU000584,Foundation,Chemistry,Indonesia,Male,2019,Active
+STU000585,Diploma,Law,South Korea,Male,2022,Active
+STU000586,Bachelor,Medicine,Singapore,Male,2024,Graduated
+STU000587,PhD,Mathematics,Philippines,Female,2022,Deferred
+STU000588,Foundation,Physics,United States,Male,2021,Deferred
+STU000589,Master,Economics,United States,Male,2023,Graduated
+STU000590,Foundation,Engineering,Vietnam,Male,2021,Deferred
+STU000591,Foundation,Biology,United Kingdom,Male,2024,Active
+STU000592,PhD,Physics,Indonesia,Male,2022,Deferred
+STU000593,Master,Chemistry,United States,Female,2023,Deferred
+STU000594,Foundation,Law,Vietnam,Female,2022,Graduated
+STU000595,PhD,Arts,Singapore,Male,2021,Graduated
+STU000596,Master,Biology,Japan,Female,2022,Active
+STU000597,Master,Law,Japan,Male,2022,Active
+STU000598,PhD,Business Administration,Vietnam,Male,2023,Graduated
+STU000599,Foundation,Medicine,Philippines,Female,2023,Graduated
+STU000600,Diploma,Psychology,Japan,Female,2023,Active
+STU000601,Diploma,Computer Science,Singapore,Male,2023,Graduated
+STU000602,Master,Physics,Vietnam,Female,2022,Graduated
+STU000603,Bachelor,Medicine,India,Male,2022,Deferred
+STU000604,Diploma,Arts,United Kingdom,Female,2022,Active
+STU000605,Bachelor,Physics,United States,Male,2021,Deferred
+STU000606,Master,Biology,Indonesia,Male,2024,Graduated
+STU000607,Foundation,Engineering,Canada,Female,2021,Graduated
+STU000608,Foundation,Medicine,Singapore,Male,2019,Graduated
+STU000609,Diploma,Arts,Canada,Male,2023,Graduated
+STU000610,Master,Law,United Kingdom,Male,2022,Graduated
+STU000611,Diploma,Medicine,China,Female,2021,Active
+STU000612,PhD,Psychology,Indonesia,Male,2020,Deferred
+STU000613,Master,Law,United Kingdom,Female,2021,Active
+STU000614,Foundation,Economics,India,Male,2024,Active
+STU000615,Bachelor,Arts,Thailand,Male,2023,Deferred
+STU000616,Bachelor,Business Administration,China,Male,2021,Active
+STU000617,Master,Business Administration,Australia,Female,2019,Graduated
+STU000618,Master,Physics,Philippines,Male,2019,Deferred
+STU000619,Bachelor,Law,Singapore,Male,2022,Graduated
+STU000620,Master,Psychology,Vietnam,Male,2021,Deferred
+STU000621,Bachelor,Business Administration,Vietnam,Male,2024,Graduated
+STU000622,PhD,Law,United States,Male,2019,Deferred
+STU000623,Diploma,Economics,China,Male,2023,Graduated
+STU000624,PhD,Computer Science,India,Male,2023,Deferred
+STU000625,Diploma,Medicine,India,Male,2022,Deferred
+STU000626,PhD,Economics,Philippines,Female,2023,Deferred
+STU000627,PhD,Medicine,South Korea,Female,2020,Active
+STU000628,Diploma,Engineering,Indonesia,Male,2023,Graduated
+STU000629,PhD,Biology,South Korea,Male,2022,Deferred
+STU000630,Foundation,Medicine,China,Male,2024,Active
+STU000631,Diploma,Economics,Australia,Female,2020,Deferred
+STU000632,Master,Psychology,Japan,Male,2019,Graduated
+STU000633,PhD,Economics,Canada,Female,2022,Deferred
+STU000634,Bachelor,Engineering,Thailand,Male,2020,Graduated
+STU000635,Diploma,Economics,Malaysia,Female,2019,Active
+STU000636,PhD,Chemistry,Japan,Male,2020,Deferred
+STU000637,Diploma,Chemistry,United Kingdom,Female,2022,Active
+STU000638,PhD,Economics,Indonesia,Female,2019,Active
+STU000639,Master,Engineering,Malaysia,Male,2021,Graduated
+STU000640,PhD,Physics,South Korea,Male,2019,Deferred
+STU000641,Bachelor,Business Administration,China,Male,2020,Graduated
+STU000642,Master,Engineering,Philippines,Female,2023,Active
+STU000643,PhD,Engineering,Japan,Female,2021,Deferred
+STU000644,Bachelor,Business Administration,Malaysia,Female,2020,Active
+STU000645,Diploma,Business Administration,South Korea,Female,2022,Deferred
+STU000646,Bachelor,Biology,Malaysia,Male,2019,Graduated
+STU000647,Foundation,Chemistry,United Kingdom,Male,2023,Graduated
+STU000648,Diploma,Mathematics,Singapore,Male,2024,Deferred
+STU000649,Diploma,Psychology,Singapore,Male,2022,Active
+STU000650,Foundation,Economics,South Korea,Male,2021,Graduated
+STU000651,PhD,Psychology,South Korea,Male,2023,Graduated
+STU000652,Master,Business Administration,Japan,Male,2022,Graduated
+STU000653,Master,Biology,Japan,Female,2021,Deferred
+STU000654,Master,Biology,Vietnam,Female,2022,Deferred
+STU000655,Bachelor,Psychology,Australia,Male,2021,Active
+STU000656,Master,Medicine,Malaysia,Female,2021,Deferred
+STU000657,Foundation,Economics,Singapore,Male,2021,Active
+STU000658,PhD,Biology,Canada,Male,2023,Active
+STU000659,Bachelor,Mathematics,China,Female,2021,Active
+STU000660,Master,Physics,Indonesia,Male,2020,Active
+STU000661,Diploma,Medicine,Thailand,Female,2022,Deferred
+STU000662,Bachelor,Psychology,Vietnam,Female,2022,Active
+STU000663,Diploma,Engineering,Australia,Male,2022,Active
+STU000664,Master,Biology,Singapore,Male,2020,Deferred
+STU000665,Bachelor,Psychology,United Kingdom,Male,2020,Active
+STU000666,PhD,Physics,South Korea,Female,2021,Graduated
+STU000667,Foundation,Engineering,United States,Female,2019,Active
+STU000668,Diploma,Law,India,Female,2022,Active
+STU000669,Foundation,Mathematics,Canada,Female,2022,Graduated
+STU000670,Master,Chemistry,Vietnam,Male,2022,Graduated
+STU000671,Foundation,Arts,Philippines,Female,2019,Deferred
+STU000672,Foundation,Law,United States,Male,2022,Graduated
+STU000673,Master,Arts,Australia,Male,2019,Active
+STU000674,Bachelor,Law,Canada,Female,2019,Active
+STU000675,Diploma,Economics,India,Female,2021,Graduated
+STU000676,Diploma,Arts,United Kingdom,Male,2020,Active
+STU000677,Foundation,Computer Science,Japan,Female,2024,Deferred
+STU000678,Bachelor,Arts,India,Male,2020,Graduated
+STU000679,Diploma,Law,Canada,Female,2020,Graduated
+STU000680,Diploma,Economics,Canada,Female,2024,Active
+STU000681,PhD,Biology,Japan,Female,2022,Deferred
+STU000682,Bachelor,Law,United States,Female,2024,Active
+STU000683,Master,Engineering,Indonesia,Male,2022,Graduated
+STU000684,PhD,Engineering,Malaysia,Female,2019,Active
+STU000685,Foundation,Engineering,United States,Male,2023,Graduated
+STU000686,PhD,Medicine,Singapore,Female,2024,Deferred
+STU000687,Master,Economics,Australia,Female,2022,Active
+STU000688,Bachelor,Medicine,China,Female,2021,Active
+STU000689,Master,Psychology,Australia,Male,2019,Graduated
+STU000690,PhD,Physics,Japan,Female,2022,Graduated
+STU000691,PhD,Medicine,United Kingdom,Female,2021,Active
+STU000692,Master,Psychology,Vietnam,Male,2021,Active
+STU000693,Bachelor,Business Administration,United Kingdom,Female,2021,Graduated
+STU000694,Diploma,Law,South Korea,Female,2024,Active
+STU000695,PhD,Engineering,Thailand,Female,2024,Deferred
+STU000696,Master,Law,Vietnam,Male,2023,Active
+STU000697,PhD,Economics,Indonesia,Male,2023,Deferred
+STU000698,Bachelor,Arts,United States,Female,2024,Deferred
+STU000699,Master,Economics,China,Male,2024,Active
+STU000700,Master,Engineering,United Kingdom,Female,2021,Active
+STU000701,Foundation,Arts,Thailand,Male,2022,Deferred
+STU000702,Diploma,Engineering,Canada,Male,2021,Active
+STU000703,Bachelor,Business Administration,Japan,Male,2022,Graduated
+STU000704,Bachelor,Computer Science,Vietnam,Female,2020,Active
+STU000705,Foundation,Law,Malaysia,Male,2019,Active
+STU000706,Foundation,Arts,Canada,Male,2022,Active
+STU000707,Bachelor,Business Administration,India,Male,2021,Active
+STU000708,Diploma,Mathematics,Thailand,Female,2024,Active
+STU000709,Bachelor,Chemistry,Indonesia,Female,2023,Deferred
+STU000710,PhD,Psychology,United States,Male,2019,Active
+STU000711,Foundation,Law,Malaysia,Male,2020,Graduated
+STU000712,Bachelor,Biology,Indonesia,Female,2021,Deferred
+STU000713,Diploma,Arts,Vietnam,Female,2019,Active
+STU000714,PhD,Chemistry,Malaysia,Female,2019,Active
+STU000715,Master,Engineering,Singapore,Female,2019,Graduated
+STU000716,Diploma,Chemistry,China,Male,2022,Deferred
+STU000717,Diploma,Engineering,South Korea,Female,2020,Deferred
+STU000718,Master,Psychology,Vietnam,Female,2020,Active
+STU000719,PhD,Medicine,South Korea,Male,2020,Active
+STU000720,Foundation,Physics,Singapore,Male,2023,Graduated
+STU000721,PhD,Arts,India,Female,2019,Deferred
+STU000722,Diploma,Physics,Japan,Female,2022,Graduated
+STU000723,Master,Physics,Indonesia,Female,2023,Deferred
+STU000724,PhD,Business Administration,Australia,Male,2024,Active
+STU000725,Master,Law,Canada,Male,2021,Graduated
+STU000726,Diploma,Physics,India,Female,2019,Deferred
+STU000727,Diploma,Biology,Philippines,Male,2022,Graduated
+STU000728,PhD,Law,Japan,Female,2023,Graduated
+STU000729,Master,Biology,Canada,Female,2020,Graduated
+STU000730,PhD,Physics,Australia,Male,2020,Deferred
+STU000731,Bachelor,Computer Science,Canada,Male,2021,Graduated
+STU000732,Master,Medicine,United States,Female,2019,Active
+STU000733,Master,Engineering,United Kingdom,Male,2019,Deferred
+STU000734,Diploma,Mathematics,Vietnam,Female,2024,Active
+STU000735,Diploma,Medicine,China,Female,2024,Deferred
+STU000736,PhD,Arts,Australia,Male,2022,Active
+STU000737,Diploma,Computer Science,United Kingdom,Female,2023,Deferred
+STU000738,Master,Law,Vietnam,Male,2023,Deferred
+STU000739,Diploma,Biology,Canada,Female,2021,Active
+STU000740,Master,Mathematics,United Kingdom,Male,2019,Deferred
+STU000741,PhD,Biology,Philippines,Male,2021,Active
+STU000742,Master,Engineering,China,Female,2024,Deferred
+STU000743,Master,Economics,Vietnam,Female,2020,Active
+STU000744,Diploma,Psychology,Australia,Male,2020,Deferred
+STU000745,Master,Physics,Indonesia,Male,2022,Deferred
+STU000746,PhD,Physics,India,Female,2021,Active
+STU000747,Foundation,Chemistry,Canada,Male,2020,Deferred
+STU000748,Foundation,Law,Vietnam,Male,2020,Active
+STU000749,Bachelor,Computer Science,Philippines,Male,2022,Deferred
+STU000750,Foundation,Mathematics,Australia,Male,2023,Active
+STU000751,Master,Computer Science,Philippines,Female,2023,Deferred
+STU000752,Bachelor,Psychology,Thailand,Female,2022,Graduated
+STU000753,Foundation,Physics,Japan,Male,2020,Deferred
+STU000754,PhD,Economics,Australia,Female,2020,Active
+STU000755,Diploma,Business Administration,Canada,Male,2021,Active
+STU000756,Diploma,Economics,Philippines,Female,2020,Active
+STU000757,Bachelor,Arts,China,Male,2019,Graduated
+STU000758,PhD,Biology,Singapore,Female,2023,Graduated
+STU000759,PhD,Medicine,China,Male,2020,Deferred
+STU000760,Bachelor,Business Administration,Vietnam,Female,2024,Deferred
+STU000761,Master,Mathematics,Philippines,Female,2024,Graduated
+STU000762,PhD,Chemistry,Canada,Female,2024,Deferred
+STU000763,Bachelor,Chemistry,Canada,Female,2022,Active
+STU000764,Master,Computer Science,Philippines,Female,2019,Graduated
+STU000765,PhD,Computer Science,Indonesia,Male,2020,Graduated
+STU000766,Foundation,Economics,India,Male,2020,Deferred
+STU000767,Bachelor,Computer Science,India,Female,2024,Active
+STU000768,Diploma,Psychology,Canada,Female,2020,Active
+STU000769,Bachelor,Chemistry,South Korea,Male,2019,Graduated
+STU000770,Diploma,Medicine,Philippines,Male,2022,Deferred
+STU000771,PhD,Physics,Philippines,Female,2019,Active
+STU000772,Master,Physics,Thailand,Female,2021,Deferred
+STU000773,Bachelor,Biology,China,Male,2022,Active
+STU000774,Master,Medicine,United States,Female,2024,Graduated
+STU000775,PhD,Mathematics,United States,Male,2024,Active
+STU000776,Bachelor,Physics,Vietnam,Female,2019,Graduated
+STU000777,Diploma,Economics,Japan,Male,2022,Deferred
+STU000778,Master,Biology,India,Male,2023,Active
+STU000779,PhD,Biology,India,Female,2022,Graduated
+STU000780,Foundation,Computer Science,China,Female,2024,Active
+STU000781,Master,Physics,Vietnam,Female,2023,Active
+STU000782,PhD,Engineering,Singapore,Female,2022,Active
+STU000783,Diploma,Arts,Malaysia,Female,2019,Deferred
+STU000784,Diploma,Economics,Singapore,Male,2023,Active
+STU000785,Foundation,Medicine,China,Female,2019,Graduated
+STU000786,Foundation,Computer Science,Japan,Male,2019,Active
+STU000787,Diploma,Engineering,Canada,Male,2019,Graduated
+STU000788,PhD,Computer Science,Thailand,Female,2020,Deferred
+STU000789,PhD,Arts,Canada,Male,2024,Active
+STU000790,Diploma,Biology,Thailand,Male,2019,Active
+STU000791,Foundation,Computer Science,United Kingdom,Female,2024,Active
+STU000792,PhD,Computer Science,Philippines,Male,2021,Graduated
+STU000793,Master,Chemistry,Japan,Female,2019,Active
+STU000794,Bachelor,Computer Science,Australia,Female,2024,Active
+STU000795,Master,Mathematics,Malaysia,Female,2022,Graduated
+STU000796,Diploma,Engineering,South Korea,Female,2021,Graduated
+STU000797,Diploma,Mathematics,Japan,Female,2024,Active
+STU000798,Foundation,Economics,Singapore,Male,2023,Active
+STU000799,Master,Economics,Australia,Female,2023,Graduated
+STU000800,Diploma,Business Administration,Malaysia,Female,2019,Active
+STU000801,Foundation,Law,Australia,Male,2023,Deferred
+STU000802,Foundation,Physics,United Kingdom,Female,2020,Deferred
+STU000803,Diploma,Biology,Singapore,Female,2023,Active
+STU000804,Master,Engineering,Malaysia,Female,2020,Deferred
+STU000805,Diploma,Engineering,South Korea,Female,2020,Graduated
+STU000806,Bachelor,Psychology,Australia,Male,2020,Graduated
+STU000807,Bachelor,Mathematics,Malaysia,Male,2023,Graduated
+STU000808,PhD,Arts,India,Male,2022,Deferred
+STU000809,Master,Arts,Singapore,Female,2023,Graduated
+STU000810,Diploma,Biology,Canada,Female,2022,Graduated
+STU000811,Foundation,Mathematics,Singapore,Male,2020,Deferred
+STU000812,Diploma,Engineering,South Korea,Male,2019,Active
+STU000813,Foundation,Arts,China,Male,2021,Graduated
+STU000814,Master,Economics,Thailand,Female,2022,Active
+STU000815,PhD,Law,United States,Female,2020,Deferred
+STU000816,Master,Computer Science,United States,Male,2024,Active
+STU000817,PhD,Arts,United Kingdom,Female,2024,Deferred
+STU000818,PhD,Engineering,South Korea,Male,2019,Graduated
+STU000819,PhD,Biology,Vietnam,Male,2022,Active
+STU000820,Diploma,Business Administration,China,Female,2023,Active
+STU000821,PhD,Medicine,Canada,Female,2024,Active
+STU000822,Diploma,Economics,Australia,Female,2020,Graduated
+STU000823,Diploma,Chemistry,Indonesia,Female,2022,Graduated
+STU000824,Foundation,Psychology,China,Male,2021,Active
+STU000825,Foundation,Law,Canada,Male,2022,Active
+STU000826,Foundation,Medicine,Thailand,Male,2023,Deferred
+STU000827,PhD,Mathematics,Philippines,Male,2023,Graduated
+STU000828,Bachelor,Mathematics,China,Male,2022,Active
+STU000829,Master,Business Administration,Japan,Female,2024,Active
+STU000830,PhD,Business Administration,China,Female,2019,Deferred
+STU000831,Master,Economics,Australia,Male,2024,Active
+STU000832,Bachelor,Mathematics,Malaysia,Female,2024,Active
+STU000833,Diploma,Psychology,Philippines,Female,2021,Deferred
+STU000834,Master,Economics,Japan,Male,2020,Active
+STU000835,PhD,Economics,South Korea,Female,2020,Graduated
+STU000836,PhD,Biology,Canada,Male,2023,Graduated
+STU000837,Bachelor,Biology,Malaysia,Female,2021,Graduated
+STU000838,Bachelor,Medicine,Singapore,Female,2024,Active
+STU000839,Diploma,Arts,Thailand,Female,2024,Graduated
+STU000840,Bachelor,Physics,Japan,Female,2023,Deferred
+STU000841,Bachelor,Economics,United Kingdom,Male,2020,Graduated
+STU000842,Diploma,Computer Science,Indonesia,Female,2024,Graduated
+STU000843,PhD,Economics,Singapore,Female,2019,Graduated
+STU000844,Bachelor,Economics,China,Male,2022,Active
+STU000845,Foundation,Engineering,Australia,Male,2024,Deferred
+STU000846,Diploma,Computer Science,India,Female,2023,Deferred
+STU000847,Diploma,Medicine,United Kingdom,Male,2021,Graduated
+STU000848,Diploma,Mathematics,South Korea,Female,2019,Active
+STU000849,Bachelor,Business Administration,Vietnam,Male,2021,Graduated
+STU000850,Bachelor,Mathematics,United States,Female,2024,Active
+STU000851,Diploma,Business Administration,Vietnam,Female,2021,Deferred
+STU000852,Bachelor,Medicine,Japan,Female,2020,Deferred
+STU000853,Bachelor,Computer Science,India,Male,2022,Graduated
+STU000854,Diploma,Computer Science,Indonesia,Female,2020,Deferred
+STU000855,PhD,Chemistry,China,Female,2019,Deferred
+STU000856,Master,Business Administration,China,Male,2021,Active
+STU000857,Foundation,Arts,United States,Female,2021,Deferred
+STU000858,PhD,Economics,Vietnam,Male,2024,Active
+STU000859,Bachelor,Engineering,Vietnam,Male,2023,Deferred
+STU000860,Bachelor,Chemistry,South Korea,Male,2021,Active
+STU000861,Foundation,Computer Science,Thailand,Male,2024,Active
+STU000862,Foundation,Law,Singapore,Female,2021,Deferred
+STU000863,Diploma,Biology,Australia,Male,2020,Graduated
+STU000864,Foundation,Law,Thailand,Male,2019,Graduated
+STU000865,Diploma,Arts,United Kingdom,Male,2023,Active
+STU000866,Bachelor,Biology,Vietnam,Female,2019,Active
+STU000867,Master,Medicine,Thailand,Male,2024,Active
+STU000868,Foundation,Physics,United Kingdom,Female,2019,Active
+STU000869,Master,Arts,United States,Male,2024,Deferred
+STU000870,Bachelor,Computer Science,Australia,Male,2022,Graduated
+STU000871,Diploma,Mathematics,India,Male,2019,Graduated
+STU000872,Bachelor,Engineering,Canada,Male,2019,Active
+STU000873,Diploma,Psychology,Canada,Male,2021,Deferred
+STU000874,PhD,Computer Science,United States,Male,2021,Deferred
+STU000875,Foundation,Law,South Korea,Male,2021,Active
+STU000876,Diploma,Psychology,Thailand,Male,2024,Active
+STU000877,PhD,Medicine,Philippines,Female,2021,Graduated
+STU000878,Diploma,Business Administration,India,Female,2021,Active
+STU000879,Diploma,Psychology,Philippines,Female,2023,Graduated
+STU000880,PhD,Business Administration,United States,Female,2020,Graduated
+STU000881,Bachelor,Arts,Thailand,Male,2022,Graduated
+STU000882,PhD,Economics,Vietnam,Female,2021,Deferred
+STU000883,Diploma,Mathematics,Indonesia,Male,2020,Graduated
+STU000884,Foundation,Economics,Thailand,Female,2023,Graduated
+STU000885,Diploma,Business Administration,Australia,Female,2019,Deferred
+STU000886,Diploma,Psychology,South Korea,Male,2024,Active
+STU000887,Foundation,Medicine,United States,Male,2022,Graduated
+STU000888,Foundation,Psychology,Indonesia,Female,2019,Graduated
+STU000889,Master,Chemistry,Philippines,Male,2019,Active
+STU000890,Foundation,Biology,Japan,Female,2023,Deferred
+STU000891,PhD,Chemistry,United States,Male,2024,Deferred
+STU000892,Master,Economics,Vietnam,Male,2023,Graduated
+STU000893,Master,Computer Science,China,Male,2024,Graduated
+STU000894,Diploma,Arts,Malaysia,Female,2020,Deferred
+STU000895,Diploma,Arts,India,Female,2022,Graduated
+STU000896,Foundation,Mathematics,Thailand,Male,2024,Deferred
+STU000897,Diploma,Medicine,Australia,Male,2023,Graduated
+STU000898,Foundation,Biology,Thailand,Female,2020,Deferred
+STU000899,Master,Business Administration,United Kingdom,Female,2019,Deferred
+STU000900,Master,Medicine,Philippines,Male,2024,Deferred
+STU000901,Foundation,Arts,Singapore,Male,2020,Active
+STU000902,Foundation,Physics,South Korea,Female,2021,Active
+STU000903,Bachelor,Physics,Vietnam,Male,2019,Deferred
+STU000904,Bachelor,Engineering,Australia,Male,2021,Active
+STU000905,Master,Arts,Canada,Male,2020,Graduated
+STU000906,Diploma,Business Administration,Malaysia,Male,2020,Deferred
+STU000907,Master,Medicine,United Kingdom,Male,2024,Active
+STU000908,PhD,Economics,Malaysia,Male,2023,Graduated
+STU000909,Foundation,Business Administration,South Korea,Female,2022,Active
+STU000910,Diploma,Chemistry,Japan,Male,2019,Deferred
+STU000911,PhD,Economics,Malaysia,Male,2024,Graduated
+STU000912,Bachelor,Chemistry,United Kingdom,Female,2022,Active
+STU000913,Master,Computer Science,Vietnam,Male,2023,Deferred
+STU000914,Master,Physics,Canada,Female,2024,Active
+STU000915,Bachelor,Arts,Canada,Female,2022,Graduated
+STU000916,Bachelor,Psychology,India,Male,2022,Deferred
+STU000917,PhD,Law,South Korea,Male,2021,Active
+STU000918,Bachelor,Physics,China,Female,2024,Graduated
+STU000919,Diploma,Biology,Japan,Female,2023,Active
+STU000920,Master,Biology,Philippines,Female,2023,Graduated
+STU000921,Foundation,Medicine,Thailand,Male,2023,Graduated
+STU000922,Master,Engineering,China,Male,2024,Deferred
+STU000923,Foundation,Computer Science,China,Male,2023,Graduated
+STU000924,PhD,Psychology,India,Male,2023,Deferred
+STU000925,Diploma,Chemistry,United Kingdom,Male,2022,Active
+STU000926,Foundation,Engineering,Vietnam,Male,2023,Active
+STU000927,Bachelor,Engineering,Vietnam,Male,2024,Active
+STU000928,Foundation,Mathematics,Thailand,Female,2022,Active
+STU000929,Master,Physics,Thailand,Male,2019,Deferred
+STU000930,Diploma,Biology,South Korea,Female,2024,Deferred
+STU000931,Diploma,Chemistry,Japan,Male,2021,Graduated
+STU000932,Diploma,Business Administration,China,Female,2023,Deferred
+STU000933,Foundation,Law,Malaysia,Male,2019,Deferred
+STU000934,Bachelor,Medicine,South Korea,Female,2020,Deferred
+STU000935,Master,Chemistry,India,Female,2023,Active
+STU000936,Master,Psychology,United States,Male,2022,Deferred
+STU000937,Bachelor,Chemistry,Vietnam,Female,2019,Graduated
+STU000938,Bachelor,Biology,Indonesia,Male,2020,Deferred
+STU000939,Diploma,Physics,Thailand,Female,2019,Active
+STU000940,Bachelor,Business Administration,South Korea,Female,2024,Deferred
+STU000941,Master,Arts,Singapore,Male,2021,Active
+STU000942,Master,Law,Thailand,Male,2020,Active
+STU000943,Master,Business Administration,China,Male,2023,Deferred
+STU000944,PhD,Business Administration,South Korea,Female,2021,Active
+STU000945,Master,Economics,Thailand,Male,2021,Deferred
+STU000946,Foundation,Biology,Thailand,Female,2022,Deferred
+STU000947,Master,Physics,Indonesia,Male,2019,Active
+STU000948,Foundation,Mathematics,Vietnam,Female,2019,Active
+STU000949,Foundation,Arts,Philippines,Female,2022,Active
+STU000950,Diploma,Economics,Singapore,Male,2024,Active
+STU000951,Master,Medicine,China,Male,2021,Graduated
+STU000952,Diploma,Chemistry,India,Male,2022,Graduated
+STU000953,Bachelor,Arts,Singapore,Male,2022,Active
+STU000954,Diploma,Engineering,Indonesia,Female,2021,Graduated
+STU000955,Foundation,Physics,Indonesia,Male,2024,Active
+STU000956,Diploma,Mathematics,Singapore,Male,2020,Graduated
+STU000957,Master,Business Administration,South Korea,Male,2022,Active
+STU000958,Foundation,Chemistry,Vietnam,Female,2020,Deferred
+STU000959,Foundation,Business Administration,South Korea,Female,2020,Graduated
+STU000960,Bachelor,Computer Science,Japan,Female,2022,Graduated
+STU000961,Foundation,Psychology,Canada,Male,2024,Graduated
+STU000962,Master,Engineering,Singapore,Male,2019,Active
+STU000963,Foundation,Law,Singapore,Female,2024,Graduated
+STU000964,Foundation,Economics,United Kingdom,Female,2022,Deferred
+STU000965,Diploma,Law,Singapore,Female,2023,Graduated
+STU000966,Bachelor,Engineering,Vietnam,Female,2022,Graduated
+STU000967,Diploma,Physics,Vietnam,Male,2022,Graduated
+STU000968,PhD,Economics,Japan,Female,2024,Active
+STU000969,PhD,Computer Science,Singapore,Female,2024,Deferred
+STU000970,Foundation,Computer Science,China,Male,2024,Deferred
+STU000971,Bachelor,Business Administration,United Kingdom,Female,2019,Graduated
+STU000972,PhD,Biology,United States,Female,2024,Active
+STU000973,PhD,Physics,Indonesia,Male,2023,Deferred
+STU000974,PhD,Psychology,Canada,Male,2023,Active
+STU000975,Master,Law,United States,Male,2023,Active
+STU000976,Foundation,Computer Science,Japan,Male,2021,Active
+STU000977,Master,Computer Science,Philippines,Male,2020,Graduated
+STU000978,Diploma,Computer Science,Singapore,Male,2019,Deferred
+STU000979,Bachelor,Engineering,Canada,Male,2021,Active
+STU000980,Bachelor,Computer Science,Indonesia,Male,2021,Graduated
+STU000981,Master,Economics,Thailand,Male,2020,Active
+STU000982,Foundation,Physics,Thailand,Female,2024,Graduated
+STU000983,Foundation,Psychology,Indonesia,Female,2020,Deferred
+STU000984,Diploma,Mathematics,United Kingdom,Female,2024,Active
+STU000985,Master,Arts,China,Female,2021,Deferred
+STU000986,Master,Economics,United Kingdom,Female,2021,Active
+STU000987,Diploma,Physics,Vietnam,Female,2020,Deferred
+STU000988,Master,Economics,Japan,Female,2019,Deferred
+STU000989,Diploma,Chemistry,United States,Male,2024,Deferred
+STU000990,Foundation,Arts,Japan,Male,2022,Deferred
+STU000991,Master,Business Administration,China,Female,2021,Active
+STU000992,PhD,Engineering,Philippines,Female,2022,Deferred
+STU000993,Foundation,Biology,South Korea,Female,2022,Active
+STU000994,PhD,Engineering,Indonesia,Female,2020,Graduated
+STU000995,Foundation,Medicine,Canada,Male,2021,Deferred
+STU000996,PhD,Chemistry,India,Female,2021,Active
+STU000997,Master,Economics,Canada,Male,2021,Active
+STU000998,Foundation,Medicine,Japan,Female,2023,Graduated
+STU000999,Foundation,Arts,Japan,Female,2019,Graduated
+STU001000,Diploma,Engineering,United Kingdom,Female,2019,Active
+STU001001,Diploma,Economics,India,Male,2022,Graduated
+STU001002,Bachelor,Arts,Canada,Male,2020,Deferred
+STU001003,Bachelor,Mathematics,Australia,Male,2024,Graduated
+STU001004,Diploma,Computer Science,Malaysia,Male,2020,Graduated
+STU001005,Master,Economics,Japan,Female,2022,Deferred
+STU001006,Bachelor,Computer Science,Japan,Female,2020,Active
+STU001007,Diploma,Psychology,India,Female,2019,Graduated
+STU001008,Bachelor,Arts,Indonesia,Male,2019,Active
+STU001009,PhD,Arts,Singapore,Male,2022,Deferred
+STU001010,Diploma,Engineering,Vietnam,Male,2019,Deferred
+STU001011,Master,Arts,Vietnam,Male,2021,Graduated
+STU001012,Master,Chemistry,India,Male,2021,Active
+STU001013,Master,Business Administration,United States,Female,2023,Active
+STU001014,Diploma,Computer Science,Vietnam,Male,2021,Graduated
+STU001015,Foundation,Economics,India,Male,2020,Graduated
+STU001016,Master,Physics,Singapore,Female,2019,Graduated
+STU001017,Foundation,Arts,China,Male,2022,Active
+STU001018,Bachelor,Mathematics,Japan,Female,2024,Deferred
+STU001019,Diploma,Law,Vietnam,Male,2022,Deferred
+STU001020,Bachelor,Biology,South Korea,Male,2024,Graduated
+STU001021,Master,Economics,Vietnam,Female,2020,Active
+STU001022,Bachelor,Mathematics,South Korea,Female,2024,Active
+STU001023,Foundation,Arts,Thailand,Female,2019,Active
+STU001024,Bachelor,Psychology,Philippines,Male,2023,Deferred
+STU001025,Bachelor,Psychology,India,Male,2019,Active
+STU001026,Diploma,Economics,China,Male,2021,Graduated
+STU001027,Master,Medicine,Australia,Female,2021,Deferred
+STU001028,PhD,Physics,Indonesia,Male,2024,Deferred
+STU001029,Foundation,Engineering,United States,Male,2021,Graduated
+STU001030,Foundation,Physics,Australia,Male,2021,Deferred
+STU001031,Diploma,Medicine,United Kingdom,Female,2023,Active
+STU001032,Foundation,Arts,Australia,Male,2023,Graduated
+STU001033,Diploma,Medicine,Singapore,Female,2022,Graduated
+STU001034,Master,Biology,Thailand,Male,2023,Graduated
+STU001035,Bachelor,Physics,Japan,Female,2019,Deferred
+STU001036,PhD,Physics,Malaysia,Male,2024,Active
+STU001037,PhD,Biology,Indonesia,Male,2023,Deferred
+STU001038,Foundation,Chemistry,Thailand,Male,2022,Graduated
+STU001039,PhD,Medicine,Thailand,Female,2022,Graduated
+STU001040,PhD,Engineering,Indonesia,Female,2019,Deferred
+STU001041,Master,Physics,United Kingdom,Male,2020,Graduated
+STU001042,Bachelor,Biology,Thailand,Male,2023,Active
+STU001043,Master,Engineering,Canada,Male,2022,Active
+STU001044,Master,Chemistry,South Korea,Male,2019,Active
+STU001045,Foundation,Mathematics,Canada,Male,2020,Active
+STU001046,Bachelor,Economics,Canada,Female,2020,Active
+STU001047,Diploma,Physics,India,Male,2024,Active
+STU001048,PhD,Psychology,Singapore,Male,2023,Graduated
+STU001049,Master,Engineering,Vietnam,Female,2020,Graduated
+STU001050,Master,Law,Malaysia,Male,2022,Graduated
+STU001051,Master,Law,South Korea,Male,2023,Deferred
+STU001052,Diploma,Computer Science,Thailand,Male,2023,Active
+STU001053,Master,Mathematics,Singapore,Male,2023,Graduated
+STU001054,Foundation,Computer Science,India,Female,2023,Deferred
+STU001055,Bachelor,Engineering,South Korea,Male,2019,Active
+STU001056,PhD,Psychology,Japan,Female,2019,Active
+STU001057,PhD,Arts,United States,Female,2022,Deferred
+STU001058,Foundation,Economics,Canada,Male,2023,Graduated
+STU001059,PhD,Biology,Thailand,Female,2022,Graduated
+STU001060,Foundation,Chemistry,United States,Female,2024,Deferred
+STU001061,Bachelor,Business Administration,Vietnam,Female,2024,Active
+STU001062,Diploma,Economics,Malaysia,Female,2020,Graduated
+STU001063,Diploma,Economics,Malaysia,Female,2020,Graduated
+STU001064,Foundation,Physics,United States,Male,2023,Deferred
+STU001065,PhD,Biology,Japan,Female,2023,Active
+STU001066,Diploma,Business Administration,Malaysia,Female,2022,Deferred
+STU001067,Foundation,Arts,United Kingdom,Male,2024,Active
+STU001068,Foundation,Economics,United Kingdom,Female,2022,Deferred
+STU001069,Master,Computer Science,United Kingdom,Male,2024,Graduated
+STU001070,Foundation,Arts,Vietnam,Male,2021,Active
+STU001071,Foundation,Arts,Thailand,Female,2021,Active
+STU001072,Master,Physics,Japan,Male,2021,Active
+STU001073,Bachelor,Medicine,India,Male,2021,Active
+STU001074,PhD,Psychology,India,Male,2024,Graduated
+STU001075,Diploma,Arts,Malaysia,Male,2019,Graduated
+STU001076,Diploma,Mathematics,Malaysia,Female,2020,Active
+STU001077,Diploma,Law,Philippines,Male,2021,Graduated
+STU001078,Diploma,Mathematics,China,Female,2019,Active
+STU001079,PhD,Psychology,Vietnam,Female,2019,Active
+STU001080,Foundation,Computer Science,Malaysia,Female,2024,Active
+STU001081,Foundation,Economics,Canada,Male,2024,Active
+STU001082,Foundation,Economics,South Korea,Female,2021,Active
+STU001083,Diploma,Law,Canada,Male,2019,Active
+STU001084,Diploma,Law,Vietnam,Male,2020,Active
+STU001085,Bachelor,Biology,India,Male,2023,Deferred
+STU001086,Diploma,Economics,China,Male,2019,Active
+STU001087,Bachelor,Business Administration,China,Male,2022,Graduated
+STU001088,PhD,Physics,South Korea,Female,2022,Deferred
+STU001089,Master,Engineering,United Kingdom,Female,2023,Active
+STU001090,Bachelor,Arts,Philippines,Female,2019,Active
+STU001091,Foundation,Physics,Thailand,Female,2024,Graduated
+STU001092,PhD,Business Administration,United Kingdom,Female,2024,Active
+STU001093,Master,Physics,United States,Male,2020,Graduated
+STU001094,Bachelor,Economics,India,Male,2020,Deferred
+STU001095,Diploma,Business Administration,United Kingdom,Female,2020,Graduated
+STU001096,Diploma,Physics,Singapore,Female,2020,Graduated
+STU001097,Diploma,Biology,India,Male,2024,Graduated
+STU001098,Foundation,Computer Science,Canada,Female,2019,Deferred
+STU001099,Diploma,Physics,India,Male,2022,Active
+STU001100,Foundation,Arts,Singapore,Male,2020,Graduated
+STU001101,Bachelor,Law,Philippines,Female,2019,Graduated
+STU001102,Master,Medicine,United States,Female,2024,Deferred
+STU001103,Bachelor,Psychology,Australia,Female,2024,Deferred
+STU001104,Master,Business Administration,Japan,Female,2021,Active
+STU001105,Diploma,Law,Philippines,Female,2023,Active
+STU001106,Master,Medicine,Vietnam,Female,2019,Graduated
+STU001107,Foundation,Business Administration,Indonesia,Male,2020,Deferred
+STU001108,Foundation,Medicine,Philippines,Female,2019,Active
+STU001109,Master,Engineering,United Kingdom,Female,2020,Deferred
+STU001110,Diploma,Mathematics,United States,Male,2020,Deferred
+STU001111,Diploma,Mathematics,China,Male,2020,Graduated
+STU001112,Diploma,Law,Australia,Male,2020,Graduated
+STU001113,PhD,Mathematics,South Korea,Female,2023,Graduated
+STU001114,Foundation,Arts,Singapore,Female,2023,Graduated
+STU001115,Bachelor,Economics,Singapore,Male,2021,Graduated
+STU001116,Foundation,Law,South Korea,Female,2023,Graduated
+STU001117,Bachelor,Computer Science,United Kingdom,Female,2019,Active
+STU001118,Diploma,Chemistry,Vietnam,Female,2023,Deferred
+STU001119,Bachelor,Engineering,Vietnam,Male,2020,Deferred
+STU001120,PhD,Computer Science,United States,Male,2022,Graduated
+STU001121,Bachelor,Law,Australia,Male,2022,Deferred
+STU001122,Foundation,Economics,Vietnam,Male,2019,Deferred
+STU001123,Diploma,Biology,India,Female,2019,Deferred
+STU001124,PhD,Medicine,India,Male,2023,Graduated
+STU001125,Foundation,Biology,Japan,Female,2023,Active
+STU001126,Bachelor,Arts,Indonesia,Male,2021,Active
+STU001127,Diploma,Biology,India,Male,2024,Graduated
+STU001128,PhD,Business Administration,Indonesia,Male,2020,Active
+STU001129,Master,Law,Indonesia,Female,2022,Active
+STU001130,Foundation,Economics,United States,Male,2023,Deferred
+STU001131,Diploma,Mathematics,China,Female,2024,Deferred
+STU001132,Bachelor,Medicine,United Kingdom,Female,2021,Deferred
+STU001133,Bachelor,Computer Science,Philippines,Male,2023,Graduated
+STU001134,Diploma,Economics,India,Male,2019,Graduated
+STU001135,Bachelor,Psychology,South Korea,Female,2020,Deferred
+STU001136,Diploma,Mathematics,United Kingdom,Female,2021,Deferred
+STU001137,PhD,Biology,United Kingdom,Male,2021,Deferred
+STU001138,Master,Arts,United States,Male,2020,Deferred
+STU001139,Foundation,Arts,South Korea,Female,2023,Deferred
+STU001140,Diploma,Computer Science,Vietnam,Female,2022,Graduated
+STU001141,Diploma,Computer Science,United States,Male,2021,Graduated
+STU001142,Master,Mathematics,China,Male,2023,Active
+STU001143,Foundation,Business Administration,China,Male,2019,Graduated
+STU001144,Bachelor,Law,Singapore,Female,2023,Active
+STU001145,Bachelor,Biology,Canada,Female,2022,Active
+STU001146,Master,Business Administration,South Korea,Male,2021,Graduated
+STU001147,Bachelor,Biology,Singapore,Male,2021,Active
+STU001148,Diploma,Arts,Philippines,Male,2022,Graduated
+STU001149,PhD,Computer Science,Japan,Female,2023,Deferred
+STU001150,Foundation,Engineering,Philippines,Male,2019,Deferred
+STU001151,Master,Computer Science,Vietnam,Male,2022,Graduated
+STU001152,Master,Physics,India,Male,2020,Graduated
+STU001153,Foundation,Physics,Thailand,Female,2022,Graduated
+STU001154,Foundation,Chemistry,India,Female,2022,Deferred
+STU001155,Bachelor,Arts,China,Female,2021,Deferred
+STU001156,PhD,Medicine,India,Male,2024,Deferred
+STU001157,Bachelor,Mathematics,South Korea,Male,2024,Active
+STU001158,PhD,Mathematics,India,Male,2023,Graduated
+STU001159,Diploma,Arts,United Kingdom,Male,2021,Active
+STU001160,Diploma,Biology,South Korea,Male,2020,Deferred
+STU001161,Master,Medicine,United Kingdom,Male,2024,Deferred
+STU001162,Master,Computer Science,Malaysia,Male,2019,Graduated
+STU001163,Foundation,Business Administration,United States,Male,2021,Deferred
+STU001164,PhD,Medicine,Singapore,Female,2021,Active
+STU001165,Master,Psychology,India,Male,2024,Graduated
+STU001166,Bachelor,Chemistry,Indonesia,Female,2022,Deferred
+STU001167,PhD,Law,Canada,Female,2022,Active
+STU001168,Master,Chemistry,United States,Male,2020,Graduated
+STU001169,Bachelor,Computer Science,Japan,Male,2024,Graduated
+STU001170,Master,Mathematics,United States,Female,2021,Active
+STU001171,Master,Business Administration,Malaysia,Female,2022,Graduated
+STU001172,Diploma,Engineering,United Kingdom,Male,2019,Deferred
+STU001173,Bachelor,Biology,South Korea,Female,2021,Deferred
+STU001174,Master,Arts,China,Female,2024,Deferred
+STU001175,Bachelor,Biology,Australia,Female,2020,Graduated
+STU001176,Foundation,Engineering,Canada,Female,2023,Active
+STU001177,PhD,Mathematics,Philippines,Male,2020,Graduated
+STU001178,Bachelor,Physics,South Korea,Male,2023,Deferred
+STU001179,Master,Business Administration,Japan,Male,2023,Active
+STU001180,Diploma,Computer Science,Canada,Female,2024,Graduated
+STU001181,Master,Medicine,Australia,Female,2024,Graduated
+STU001182,Diploma,Psychology,Vietnam,Male,2021,Graduated
+STU001183,Diploma,Law,United Kingdom,Female,2022,Active
+STU001184,Diploma,Arts,Philippines,Female,2024,Active
+STU001185,Bachelor,Arts,Philippines,Female,2022,Active
+STU001186,PhD,Law,United States,Male,2019,Graduated
+STU001187,Diploma,Engineering,South Korea,Male,2023,Active
+STU001188,Diploma,Engineering,Malaysia,Male,2020,Active
+STU001189,Diploma,Arts,United Kingdom,Female,2019,Deferred
+STU001190,Foundation,Engineering,Singapore,Female,2023,Graduated
+STU001191,PhD,Arts,South Korea,Male,2023,Graduated
+STU001192,Master,Law,Canada,Female,2019,Active
+STU001193,Diploma,Physics,United States,Male,2021,Active
+STU001194,Master,Computer Science,Indonesia,Female,2019,Active
+STU001195,PhD,Chemistry,Australia,Male,2019,Graduated
+STU001196,Foundation,Mathematics,India,Female,2022,Graduated
+STU001197,Master,Arts,United States,Female,2024,Active
+STU001198,PhD,Psychology,United States,Male,2021,Graduated
+STU001199,Master,Chemistry,South Korea,Male,2019,Active
+STU001200,Foundation,Physics,Thailand,Female,2024,Deferred
+STU001201,Master,Chemistry,Indonesia,Male,2020,Graduated
+STU001202,Foundation,Chemistry,United States,Female,2023,Deferred
+STU001203,Master,Mathematics,Canada,Female,2021,Active
+STU001204,Master,Biology,Singapore,Female,2019,Graduated
+STU001205,PhD,Business Administration,Australia,Male,2020,Graduated
+STU001206,Diploma,Medicine,Japan,Female,2019,Active
+STU001207,PhD,Law,Indonesia,Male,2020,Active
+STU001208,Foundation,Business Administration,Australia,Female,2023,Active
+STU001209,Diploma,Law,Japan,Female,2019,Deferred
+STU001210,Diploma,Chemistry,Australia,Female,2020,Deferred
+STU001211,Master,Law,Indonesia,Male,2022,Deferred
+STU001212,Foundation,Mathematics,Canada,Female,2021,Deferred
+STU001213,Diploma,Physics,United States,Male,2021,Graduated
+STU001214,Foundation,Engineering,India,Male,2021,Active
+STU001215,Foundation,Law,United Kingdom,Male,2023,Active
+STU001216,Bachelor,Engineering,Australia,Female,2020,Deferred
+STU001217,Diploma,Chemistry,Thailand,Male,2021,Active
+STU001218,Foundation,Business Administration,South Korea,Female,2023,Deferred
+STU001219,Bachelor,Computer Science,Singapore,Female,2019,Active
+STU001220,Foundation,Computer Science,Vietnam,Male,2023,Deferred
+STU001221,PhD,Medicine,Japan,Female,2020,Graduated
+STU001222,Diploma,Arts,Canada,Female,2020,Graduated
+STU001223,Diploma,Mathematics,Canada,Male,2023,Active
+STU001224,Foundation,Arts,Philippines,Male,2021,Graduated
+STU001225,Master,Physics,United Kingdom,Male,2019,Active
+STU001226,Foundation,Economics,China,Male,2020,Graduated
+STU001227,Diploma,Medicine,Thailand,Male,2020,Graduated
+STU001228,PhD,Biology,Malaysia,Female,2019,Active
+STU001229,Diploma,Biology,Malaysia,Male,2019,Graduated
+STU001230,Bachelor,Arts,Thailand,Male,2019,Deferred
+STU001231,PhD,Arts,Singapore,Male,2019,Active
+STU001232,Foundation,Physics,India,Male,2023,Deferred
+STU001233,Diploma,Law,Malaysia,Female,2024,Deferred
+STU001234,Diploma,Mathematics,Japan,Male,2024,Active
+STU001235,Diploma,Mathematics,United States,Female,2023,Graduated
+STU001236,Diploma,Computer Science,China,Male,2019,Deferred
+STU001237,Bachelor,Law,Malaysia,Female,2024,Active
+STU001238,Bachelor,Chemistry,South Korea,Female,2024,Active
+STU001239,PhD,Computer Science,Indonesia,Female,2023,Deferred
+STU001240,PhD,Economics,Thailand,Female,2021,Active
+STU001241,Bachelor,Physics,Malaysia,Male,2019,Graduated
+STU001242,Foundation,Business Administration,Indonesia,Female,2024,Deferred
+STU001243,Diploma,Economics,India,Female,2024,Active
+STU001244,Diploma,Psychology,Vietnam,Female,2023,Deferred
+STU001245,Bachelor,Arts,United Kingdom,Male,2023,Deferred
+STU001246,Diploma,Computer Science,Australia,Male,2023,Deferred
+STU001247,Foundation,Biology,United Kingdom,Male,2019,Active
+STU001248,Diploma,Mathematics,Vietnam,Female,2021,Active
+STU001249,Master,Mathematics,South Korea,Male,2021,Deferred
+STU001250,PhD,Business Administration,Indonesia,Male,2023,Graduated
+STU001251,PhD,Business Administration,Canada,Male,2020,Active
+STU001252,PhD,Chemistry,Philippines,Female,2020,Active
+STU001253,PhD,Law,Japan,Female,2023,Graduated
+STU001254,PhD,Mathematics,Singapore,Female,2022,Deferred
+STU001255,PhD,Physics,Thailand,Male,2024,Deferred
+STU001256,PhD,Mathematics,Vietnam,Male,2022,Active
+STU001257,Foundation,Physics,Singapore,Female,2021,Active
+STU001258,Master,Mathematics,India,Male,2021,Active
+STU001259,Bachelor,Chemistry,Japan,Female,2020,Active
+STU001260,Diploma,Arts,India,Female,2020,Active
+STU001261,Foundation,Biology,Singapore,Female,2023,Deferred
+STU001262,Bachelor,Mathematics,Canada,Male,2019,Graduated
+STU001263,Bachelor,Chemistry,South Korea,Male,2020,Active
+STU001264,PhD,Arts,United Kingdom,Female,2020,Graduated
+STU001265,Foundation,Economics,Canada,Female,2024,Deferred
+STU001266,Master,Law,Singapore,Female,2021,Graduated
+STU001267,Diploma,Computer Science,Vietnam,Male,2022,Deferred
+STU001268,PhD,Law,Philippines,Male,2024,Deferred
+STU001269,PhD,Psychology,Vietnam,Female,2022,Deferred
+STU001270,PhD,Arts,Japan,Female,2019,Active
+STU001271,Bachelor,Physics,South Korea,Male,2019,Graduated
+STU001272,PhD,Engineering,China,Male,2019,Active
+STU001273,Foundation,Medicine,India,Female,2021,Graduated
+STU001274,Bachelor,Arts,Malaysia,Male,2023,Deferred
+STU001275,Foundation,Business Administration,Japan,Female,2023,Deferred
+STU001276,Master,Medicine,Philippines,Male,2020,Active
+STU001277,Master,Law,South Korea,Male,2022,Deferred
+STU001278,Bachelor,Medicine,Indonesia,Female,2019,Graduated
+STU001279,Diploma,Biology,Philippines,Male,2020,Deferred
+STU001280,Foundation,Psychology,Vietnam,Female,2020,Deferred
+STU001281,Foundation,Law,Australia,Female,2021,Active
+STU001282,Master,Engineering,Canada,Female,2024,Deferred
+STU001283,PhD,Law,Indonesia,Male,2022,Deferred
+STU001284,PhD,Physics,Australia,Female,2021,Active
+STU001285,PhD,Physics,Philippines,Female,2022,Deferred
+STU001286,Master,Chemistry,Indonesia,Female,2022,Graduated
+STU001287,Diploma,Chemistry,Japan,Male,2020,Deferred
+STU001288,Bachelor,Psychology,Singapore,Male,2020,Deferred
+STU001289,PhD,Computer Science,Thailand,Male,2021,Graduated
+STU001290,Foundation,Economics,China,Female,2024,Deferred
+STU001291,PhD,Economics,Canada,Female,2022,Active
+STU001292,PhD,Mathematics,United Kingdom,Male,2020,Deferred
+STU001293,Foundation,Engineering,Canada,Female,2024,Graduated
+STU001294,Foundation,Business Administration,Thailand,Male,2024,Graduated
+STU001295,Master,Medicine,Malaysia,Male,2023,Graduated
+STU001296,Bachelor,Psychology,United States,Male,2024,Active
+STU001297,Foundation,Biology,United States,Male,2023,Deferred
+STU001298,Diploma,Mathematics,Canada,Male,2023,Active
+STU001299,Bachelor,Medicine,Thailand,Male,2020,Graduated
+STU001300,Master,Computer Science,China,Male,2023,Active
+STU001301,Master,Biology,United Kingdom,Male,2023,Deferred
+STU001302,Master,Biology,China,Female,2021,Active
+STU001303,PhD,Engineering,Canada,Male,2021,Graduated
+STU001304,Bachelor,Engineering,Malaysia,Female,2020,Graduated
+STU001305,PhD,Computer Science,Japan,Male,2022,Deferred
+STU001306,Diploma,Mathematics,Philippines,Female,2020,Active
+STU001307,Diploma,Mathematics,Malaysia,Female,2019,Deferred
+STU001308,Foundation,Mathematics,Australia,Male,2020,Deferred
+STU001309,Bachelor,Computer Science,Singapore,Female,2021,Deferred
+STU001310,Bachelor,Mathematics,Vietnam,Male,2024,Graduated
+STU001311,PhD,Psychology,Indonesia,Female,2022,Graduated
+STU001312,Diploma,Arts,Vietnam,Female,2020,Graduated
+STU001313,Master,Business Administration,Thailand,Female,2022,Active
+STU001314,Bachelor,Law,Philippines,Male,2023,Active
+STU001315,Bachelor,Computer Science,Thailand,Female,2020,Graduated
+STU001316,PhD,Economics,Japan,Female,2022,Deferred
+STU001317,Foundation,Computer Science,Japan,Male,2023,Graduated
+STU001318,PhD,Arts,Canada,Female,2024,Deferred
+STU001319,Master,Psychology,United States,Male,2022,Graduated
+STU001320,Master,Biology,Vietnam,Female,2019,Active
+STU001321,Foundation,Psychology,South Korea,Male,2022,Active
+STU001322,Foundation,Medicine,Indonesia,Male,2021,Graduated
+STU001323,Foundation,Chemistry,India,Male,2023,Deferred
+STU001324,Master,Economics,Japan,Female,2023,Deferred
+STU001325,Diploma,Economics,Thailand,Male,2021,Active
+STU001326,Bachelor,Arts,Philippines,Female,2020,Deferred
+STU001327,Master,Mathematics,United Kingdom,Male,2021,Deferred
+STU001328,Foundation,Physics,Thailand,Female,2021,Deferred
+STU001329,Bachelor,Economics,Philippines,Male,2022,Graduated
+STU001330,PhD,Arts,United Kingdom,Male,2020,Active
+STU001331,PhD,Arts,Canada,Female,2023,Active
+STU001332,Bachelor,Psychology,China,Female,2023,Active
+STU001333,Bachelor,Engineering,United Kingdom,Female,2022,Graduated
+STU001334,PhD,Law,South Korea,Male,2020,Active
+STU001335,Diploma,Law,India,Female,2022,Graduated
+STU001336,Foundation,Law,United States,Female,2024,Deferred
+STU001337,Bachelor,Physics,Japan,Female,2024,Active
+STU001338,Foundation,Economics,Vietnam,Female,2019,Active
+STU001339,PhD,Biology,United States,Female,2023,Deferred
+STU001340,Diploma,Engineering,China,Male,2019,Active
+STU001341,Bachelor,Medicine,Singapore,Female,2024,Graduated
+STU001342,PhD,Economics,South Korea,Female,2019,Deferred
+STU001343,PhD,Law,Vietnam,Male,2019,Active
+STU001344,Foundation,Physics,Singapore,Male,2021,Deferred
+STU001345,Master,Biology,United States,Female,2023,Deferred
+STU001346,Diploma,Medicine,China,Male,2023,Active
+STU001347,Bachelor,Medicine,United Kingdom,Male,2021,Graduated
+STU001348,PhD,Chemistry,Thailand,Female,2019,Deferred
+STU001349,Foundation,Computer Science,Japan,Male,2021,Deferred
+STU001350,Bachelor,Mathematics,Malaysia,Male,2019,Active
+STU001351,Diploma,Medicine,South Korea,Female,2022,Graduated
+STU001352,Bachelor,Computer Science,Thailand,Female,2023,Deferred
+STU001353,Foundation,Law,India,Male,2024,Active
+STU001354,Diploma,Medicine,Philippines,Female,2022,Active
+STU001355,Master,Physics,United States,Male,2023,Active
+STU001356,Master,Economics,United Kingdom,Male,2021,Active
+STU001357,Diploma,Physics,Singapore,Male,2022,Active
+STU001358,PhD,Chemistry,Singapore,Female,2024,Active
+STU001359,Diploma,Psychology,Thailand,Female,2020,Graduated
+STU001360,Diploma,Economics,Vietnam,Male,2024,Active
+STU001361,Diploma,Mathematics,India,Male,2023,Deferred
+STU001362,PhD,Physics,Canada,Female,2022,Active
+STU001363,Master,Medicine,South Korea,Female,2021,Graduated
+STU001364,PhD,Medicine,United States,Female,2024,Graduated
+STU001365,Master,Engineering,Japan,Male,2023,Deferred
+STU001366,Diploma,Computer Science,Vietnam,Male,2023,Deferred
+STU001367,Foundation,Law,Thailand,Female,2020,Active
+STU001368,PhD,Medicine,Canada,Female,2024,Deferred
+STU001369,Foundation,Mathematics,Malaysia,Male,2019,Active
+STU001370,Foundation,Mathematics,South Korea,Female,2022,Active
+STU001371,Bachelor,Medicine,South Korea,Male,2019,Graduated
+STU001372,PhD,Engineering,United Kingdom,Male,2023,Graduated
+STU001373,Foundation,Engineering,Canada,Female,2021,Deferred
+STU001374,Bachelor,Law,Indonesia,Female,2019,Graduated
+STU001375,PhD,Physics,South Korea,Male,2024,Deferred
+STU001376,Master,Arts,United States,Female,2020,Graduated
+STU001377,Diploma,Arts,South Korea,Male,2021,Deferred
+STU001378,Master,Psychology,China,Female,2020,Graduated
+STU001379,Bachelor,Medicine,China,Female,2021,Deferred
+STU001380,Diploma,Computer Science,South Korea,Female,2023,Active
+STU001381,Master,Arts,Singapore,Female,2020,Active
+STU001382,Master,Arts,Singapore,Female,2021,Graduated
+STU001383,Master,Engineering,Indonesia,Female,2019,Deferred
+STU001384,Diploma,Computer Science,Indonesia,Male,2020,Active
+STU001385,Foundation,Computer Science,Australia,Female,2022,Deferred
+STU001386,Foundation,Biology,South Korea,Female,2020,Deferred
+STU001387,PhD,Mathematics,South Korea,Male,2023,Deferred
+STU001388,Foundation,Arts,Vietnam,Male,2024,Graduated
+STU001389,PhD,Business Administration,South Korea,Female,2024,Deferred
+STU001390,Master,Chemistry,Indonesia,Male,2022,Deferred
+STU001391,Diploma,Medicine,United Kingdom,Female,2021,Deferred
+STU001392,Bachelor,Biology,Indonesia,Male,2020,Graduated
+STU001393,Bachelor,Medicine,Philippines,Male,2024,Graduated
+STU001394,Bachelor,Medicine,Indonesia,Female,2020,Active
+STU001395,Bachelor,Economics,Australia,Male,2022,Graduated
+STU001396,Bachelor,Medicine,Canada,Female,2020,Deferred
+STU001397,Diploma,Arts,South Korea,Female,2020,Active
+STU001398,Diploma,Computer Science,Canada,Male,2024,Graduated
+STU001399,Foundation,Economics,Japan,Male,2021,Graduated
+STU001400,Bachelor,Mathematics,Philippines,Female,2022,Deferred
+STU001401,Bachelor,Arts,Singapore,Female,2020,Graduated
+STU001402,Foundation,Engineering,Indonesia,Male,2019,Deferred
+STU001403,PhD,Business Administration,Indonesia,Male,2023,Active
+STU001404,Diploma,Physics,India,Female,2019,Active
+STU001405,Diploma,Medicine,United Kingdom,Male,2019,Deferred
+STU001406,Foundation,Biology,Philippines,Male,2021,Deferred
+STU001407,Diploma,Law,United Kingdom,Female,2019,Graduated
+STU001408,PhD,Business Administration,Malaysia,Male,2020,Graduated
+STU001409,Foundation,Biology,United States,Male,2023,Graduated
+STU001410,Master,Arts,Malaysia,Male,2019,Graduated
+STU001411,Master,Business Administration,China,Male,2022,Active
+STU001412,Bachelor,Medicine,Canada,Male,2022,Active
+STU001413,Bachelor,Business Administration,United States,Male,2021,Active
+STU001414,Diploma,Arts,India,Female,2020,Active
+STU001415,Master,Computer Science,United States,Male,2023,Deferred
+STU001416,Bachelor,Law,Vietnam,Male,2021,Deferred
+STU001417,Diploma,Business Administration,Indonesia,Female,2023,Deferred
+STU001418,Master,Medicine,Philippines,Male,2024,Active
+STU001419,Foundation,Arts,China,Male,2022,Graduated
+STU001420,Master,Computer Science,South Korea,Female,2021,Deferred
+STU001421,Diploma,Arts,Singapore,Female,2023,Active
+STU001422,Master,Engineering,Thailand,Female,2020,Deferred
+STU001423,Bachelor,Biology,Singapore,Male,2021,Deferred
+STU001424,Diploma,Economics,Australia,Female,2023,Active
+STU001425,Master,Mathematics,Japan,Female,2020,Deferred
+STU001426,PhD,Physics,Vietnam,Male,2022,Graduated
+STU001427,Master,Medicine,Vietnam,Female,2019,Graduated
+STU001428,Diploma,Chemistry,Canada,Female,2023,Graduated
+STU001429,PhD,Biology,Japan,Female,2020,Active
+STU001430,Diploma,Law,Thailand,Female,2021,Active
+STU001431,Foundation,Physics,Japan,Female,2020,Graduated
+STU001432,Foundation,Computer Science,United Kingdom,Female,2020,Graduated
+STU001433,PhD,Chemistry,Indonesia,Female,2024,Graduated
+STU001434,Foundation,Mathematics,United States,Male,2023,Graduated
+STU001435,Diploma,Engineering,Malaysia,Male,2021,Graduated
+STU001436,Diploma,Law,Canada,Male,2019,Graduated
+STU001437,Bachelor,Medicine,China,Male,2021,Active
+STU001438,PhD,Economics,Malaysia,Female,2024,Graduated
+STU001439,Master,Computer Science,Singapore,Female,2019,Active
+STU001440,PhD,Engineering,Canada,Female,2020,Active
+STU001441,PhD,Chemistry,Vietnam,Female,2020,Active
+STU001442,PhD,Computer Science,Indonesia,Female,2022,Active
+STU001443,Diploma,Chemistry,Philippines,Female,2020,Graduated
+STU001444,Bachelor,Engineering,United States,Male,2023,Deferred
+STU001445,Bachelor,Economics,China,Male,2022,Deferred
+STU001446,Foundation,Mathematics,United Kingdom,Female,2024,Graduated
+STU001447,Master,Biology,China,Male,2023,Active
+STU001448,Diploma,Computer Science,Thailand,Female,2020,Active
+STU001449,Diploma,Economics,Australia,Male,2019,Graduated
+STU001450,Foundation,Law,China,Female,2021,Graduated
+STU001451,PhD,Engineering,Singapore,Male,2022,Deferred
+STU001452,Diploma,Chemistry,Indonesia,Male,2019,Graduated
+STU001453,Master,Medicine,Japan,Male,2020,Active
+STU001454,Bachelor,Computer Science,Canada,Female,2022,Graduated
+STU001455,Diploma,Economics,Malaysia,Male,2024,Deferred
+STU001456,Master,Business Administration,Singapore,Male,2022,Deferred
+STU001457,Bachelor,Law,Vietnam,Male,2024,Graduated
+STU001458,Bachelor,Mathematics,Philippines,Male,2024,Deferred
+STU001459,Diploma,Economics,Canada,Male,2024,Graduated
+STU001460,Master,Psychology,Malaysia,Female,2020,Graduated
+STU001461,Foundation,Medicine,Indonesia,Female,2024,Active
+STU001462,Diploma,Computer Science,South Korea,Male,2019,Deferred
+STU001463,Foundation,Physics,United Kingdom,Male,2020,Deferred
+STU001464,Master,Chemistry,United States,Male,2019,Active
+STU001465,PhD,Business Administration,China,Female,2021,Graduated
+STU001466,Master,Physics,China,Male,2024,Deferred
+STU001467,Master,Psychology,China,Female,2019,Deferred
+STU001468,Bachelor,Computer Science,Philippines,Male,2020,Deferred
+STU001469,Foundation,Economics,Japan,Male,2020,Graduated
+STU001470,Diploma,Chemistry,Singapore,Male,2019,Deferred
+STU001471,Diploma,Computer Science,Malaysia,Female,2024,Active
+STU001472,Master,Psychology,Malaysia,Male,2024,Deferred
+STU001473,Master,Medicine,United States,Male,2021,Deferred
+STU001474,Bachelor,Biology,United Kingdom,Male,2020,Active
+STU001475,Foundation,Arts,Indonesia,Male,2024,Deferred
+STU001476,Master,Biology,Malaysia,Female,2019,Active
+STU001477,PhD,Economics,Vietnam,Female,2020,Deferred
+STU001478,Diploma,Computer Science,Japan,Female,2022,Active
+STU001479,Foundation,Medicine,Singapore,Male,2020,Active
+STU001480,Master,Medicine,Vietnam,Male,2021,Graduated
+STU001481,Diploma,Engineering,South Korea,Female,2020,Graduated
+STU001482,PhD,Arts,Vietnam,Male,2024,Active
+STU001483,Bachelor,Arts,India,Female,2019,Graduated
+STU001484,PhD,Law,Thailand,Female,2019,Active
+STU001485,Foundation,Engineering,Malaysia,Male,2022,Graduated
+STU001486,Diploma,Psychology,Indonesia,Female,2021,Deferred
+STU001487,PhD,Chemistry,Canada,Female,2022,Active
+STU001488,Foundation,Physics,Philippines,Male,2019,Active
+STU001489,Master,Law,Malaysia,Female,2022,Deferred
+STU001490,PhD,Law,Canada,Male,2020,Active
+STU001491,PhD,Chemistry,China,Female,2024,Active
+STU001492,Master,Business Administration,Vietnam,Male,2021,Active
+STU001493,Diploma,Chemistry,China,Male,2019,Deferred
+STU001494,Foundation,Law,India,Male,2022,Deferred
+STU001495,Bachelor,Engineering,Japan,Female,2020,Graduated
+STU001496,Bachelor,Economics,Singapore,Male,2021,Deferred
+STU001497,Bachelor,Computer Science,South Korea,Male,2024,Active
+STU001498,Bachelor,Arts,Indonesia,Male,2019,Active
+STU001499,Master,Chemistry,Malaysia,Male,2022,Graduated
+STU001500,Foundation,Arts,China,Male,2024,Active
+STU001501,Foundation,Medicine,China,Female,2021,Graduated
+STU001502,PhD,Law,China,Female,2024,Deferred
+STU001503,Bachelor,Physics,Indonesia,Female,2021,Active
+STU001504,Master,Law,Vietnam,Female,2023,Graduated
+STU001505,Diploma,Mathematics,United States,Male,2021,Graduated
+STU001506,Foundation,Biology,Philippines,Female,2023,Graduated
+STU001507,Foundation,Economics,China,Male,2019,Active
+STU001508,Diploma,Arts,Singapore,Female,2023,Active
+STU001509,Master,Biology,United States,Male,2019,Graduated
+STU001510,Bachelor,Business Administration,United Kingdom,Female,2024,Active
+STU001511,Diploma,Law,South Korea,Female,2024,Active
+STU001512,Diploma,Computer Science,Philippines,Male,2019,Deferred
+STU001513,Master,Mathematics,Canada,Male,2020,Deferred
+STU001514,Master,Business Administration,Vietnam,Male,2022,Graduated
+STU001515,Master,Mathematics,United States,Male,2023,Deferred
+STU001516,Foundation,Biology,Thailand,Female,2020,Graduated
+STU001517,Diploma,Medicine,Australia,Female,2022,Graduated
+STU001518,Master,Medicine,South Korea,Female,2019,Active
+STU001519,Diploma,Engineering,Philippines,Male,2024,Deferred
+STU001520,Foundation,Engineering,Philippines,Female,2023,Graduated
+STU001521,Diploma,Psychology,South Korea,Female,2019,Deferred
+STU001522,Bachelor,Engineering,Malaysia,Female,2024,Deferred
+STU001523,Foundation,Biology,Indonesia,Female,2020,Graduated
+STU001524,Foundation,Engineering,United States,Male,2023,Deferred
+STU001525,PhD,Arts,Japan,Female,2024,Deferred
+STU001526,Bachelor,Economics,South Korea,Female,2019,Graduated
+STU001527,Foundation,Economics,Vietnam,Female,2024,Graduated
+STU001528,PhD,Physics,India,Female,2023,Graduated
+STU001529,Master,Biology,Philippines,Male,2021,Graduated
+STU001530,Foundation,Psychology,Canada,Female,2023,Graduated
+STU001531,Bachelor,Computer Science,Canada,Female,2022,Active
+STU001532,Bachelor,Business Administration,Singapore,Female,2023,Graduated
+STU001533,Foundation,Economics,China,Male,2020,Graduated
+STU001534,Foundation,Psychology,Philippines,Female,2023,Active
+STU001535,PhD,Law,United Kingdom,Female,2024,Active
+STU001536,Diploma,Engineering,Thailand,Female,2022,Graduated
+STU001537,Bachelor,Physics,Philippines,Female,2023,Deferred
+STU001538,Bachelor,Economics,South Korea,Male,2024,Deferred
+STU001539,Master,Physics,South Korea,Female,2021,Active
+STU001540,Diploma,Psychology,Indonesia,Male,2021,Graduated
+STU001541,Foundation,Economics,United Kingdom,Female,2019,Active
+STU001542,Bachelor,Biology,Philippines,Male,2021,Graduated
+STU001543,Bachelor,Chemistry,Malaysia,Male,2022,Active
+STU001544,Master,Business Administration,Vietnam,Female,2022,Deferred
+STU001545,Bachelor,Mathematics,India,Female,2020,Deferred
+STU001546,Bachelor,Mathematics,Vietnam,Female,2021,Graduated
+STU001547,Foundation,Business Administration,Japan,Female,2022,Active
+STU001548,Foundation,Biology,Indonesia,Male,2019,Active
+STU001549,Bachelor,Law,United States,Female,2019,Active
+STU001550,Diploma,Chemistry,Australia,Male,2020,Deferred
+STU001551,Bachelor,Economics,Australia,Male,2020,Graduated
+STU001552,Bachelor,Biology,Thailand,Male,2022,Active
+STU001553,PhD,Computer Science,China,Female,2020,Deferred
+STU001554,Foundation,Arts,Australia,Female,2021,Graduated
+STU001555,PhD,Arts,Malaysia,Male,2024,Active
+STU001556,Foundation,Economics,Japan,Male,2020,Deferred
+STU001557,Master,Physics,United States,Male,2022,Active
+STU001558,PhD,Physics,South Korea,Female,2021,Graduated
+STU001559,Foundation,Psychology,Canada,Male,2020,Deferred
+STU001560,PhD,Physics,Australia,Female,2024,Active
+STU001561,Master,Business Administration,Indonesia,Female,2024,Graduated
+STU001562,Diploma,Mathematics,Australia,Female,2024,Graduated
+STU001563,Master,Business Administration,Singapore,Female,2019,Graduated
+STU001564,Diploma,Business Administration,Philippines,Male,2022,Active
+STU001565,Diploma,Biology,Japan,Male,2021,Active
+STU001566,PhD,Physics,Philippines,Male,2020,Active
+STU001567,Master,Engineering,South Korea,Female,2024,Deferred
+STU001568,Foundation,Engineering,United Kingdom,Female,2024,Active
+STU001569,PhD,Law,India,Male,2024,Active
+STU001570,Diploma,Computer Science,Malaysia,Male,2019,Graduated
+STU001571,PhD,Physics,Australia,Female,2024,Active
+STU001572,PhD,Medicine,Malaysia,Male,2022,Graduated
+STU001573,Diploma,Arts,South Korea,Male,2023,Graduated
+STU001574,Bachelor,Economics,Philippines,Female,2023,Active
+STU001575,Master,Arts,Singapore,Male,2022,Graduated
+STU001576,PhD,Psychology,United States,Female,2021,Graduated
+STU001577,PhD,Psychology,Australia,Male,2020,Graduated
+STU001578,Master,Law,Vietnam,Male,2024,Graduated
+STU001579,Foundation,Law,Philippines,Male,2019,Graduated
+STU001580,Diploma,Biology,Canada,Male,2024,Graduated
+STU001581,Foundation,Arts,Thailand,Female,2024,Graduated
+STU001582,Bachelor,Arts,China,Male,2020,Active
+STU001583,Bachelor,Business Administration,India,Male,2022,Deferred
+STU001584,Bachelor,Business Administration,Thailand,Female,2022,Graduated
+STU001585,Foundation,Chemistry,Australia,Female,2021,Deferred
+STU001586,Foundation,Chemistry,Australia,Male,2022,Graduated
+STU001587,Foundation,Psychology,Malaysia,Male,2020,Active
+STU001588,PhD,Engineering,Singapore,Male,2019,Active
+STU001589,Foundation,Mathematics,Singapore,Male,2019,Active
+STU001590,Master,Engineering,Philippines,Female,2021,Deferred
+STU001591,Foundation,Psychology,United States,Female,2024,Active
+STU001592,Bachelor,Chemistry,Vietnam,Female,2021,Deferred
+STU001593,Foundation,Biology,Singapore,Female,2024,Active
+STU001594,Master,Medicine,South Korea,Female,2022,Graduated
+STU001595,Master,Chemistry,Australia,Female,2023,Deferred
+STU001596,Master,Physics,Philippines,Female,2022,Graduated
+STU001597,Bachelor,Physics,South Korea,Male,2022,Deferred
+STU001598,PhD,Law,India,Male,2019,Active
+STU001599,Foundation,Arts,South Korea,Male,2022,Deferred
+STU001600,Diploma,Mathematics,India,Female,2022,Graduated
+STU001601,Diploma,Mathematics,Thailand,Female,2024,Graduated
+STU001602,PhD,Biology,Indonesia,Male,2022,Active
+STU001603,Diploma,Engineering,China,Female,2024,Active
+STU001604,PhD,Medicine,United Kingdom,Male,2020,Graduated
+STU001605,PhD,Computer Science,South Korea,Male,2019,Graduated
+STU001606,Bachelor,Economics,Vietnam,Female,2020,Graduated
+STU001607,Foundation,Medicine,Japan,Male,2022,Active
+STU001608,Bachelor,Economics,United States,Male,2021,Active
+STU001609,Master,Economics,Malaysia,Female,2021,Deferred
+STU001610,Foundation,Chemistry,India,Female,2020,Graduated
+STU001611,Foundation,Psychology,Vietnam,Male,2019,Deferred
+STU001612,Bachelor,Physics,Indonesia,Male,2021,Active
+STU001613,Foundation,Psychology,United Kingdom,Female,2023,Graduated
+STU001614,Master,Physics,Thailand,Female,2023,Deferred
+STU001615,Master,Engineering,United Kingdom,Male,2020,Deferred
+STU001616,Foundation,Arts,Malaysia,Male,2022,Active
+STU001617,PhD,Chemistry,Japan,Female,2021,Graduated
+STU001618,Diploma,Arts,Canada,Male,2023,Deferred
+STU001619,PhD,Medicine,United Kingdom,Male,2022,Graduated
+STU001620,Bachelor,Business Administration,Canada,Female,2021,Deferred
+STU001621,Master,Chemistry,China,Female,2020,Active
+STU001622,PhD,Psychology,Philippines,Male,2024,Deferred
+STU001623,Diploma,Arts,Vietnam,Female,2023,Graduated
+STU001624,Master,Computer Science,Philippines,Male,2022,Deferred
+STU001625,Diploma,Arts,Thailand,Female,2020,Deferred
+STU001626,Diploma,Arts,Malaysia,Male,2024,Deferred
+STU001627,Diploma,Chemistry,China,Male,2023,Active
+STU001628,PhD,Economics,United Kingdom,Male,2020,Deferred
+STU001629,Bachelor,Medicine,Philippines,Male,2021,Graduated
+STU001630,Foundation,Biology,Canada,Female,2020,Active
+STU001631,Master,Chemistry,Canada,Male,2021,Active
+STU001632,Master,Chemistry,Canada,Male,2020,Graduated
+STU001633,Foundation,Computer Science,China,Male,2023,Active
+STU001634,Master,Medicine,Singapore,Male,2023,Graduated
+STU001635,Diploma,Medicine,South Korea,Female,2020,Graduated
+STU001636,Foundation,Biology,South Korea,Female,2023,Active
+STU001637,Bachelor,Engineering,Malaysia,Female,2019,Graduated
+STU001638,Bachelor,Physics,Australia,Female,2024,Active
+STU001639,Foundation,Chemistry,Canada,Male,2023,Deferred
+STU001640,Bachelor,Chemistry,Singapore,Female,2022,Deferred
+STU001641,PhD,Chemistry,Canada,Female,2022,Deferred
+STU001642,Diploma,Psychology,Singapore,Female,2020,Deferred
+STU001643,Foundation,Engineering,South Korea,Male,2024,Deferred
+STU001644,Master,Chemistry,Vietnam,Female,2024,Graduated
+STU001645,Diploma,Psychology,United Kingdom,Male,2024,Active
+STU001646,Foundation,Mathematics,China,Female,2023,Graduated
+STU001647,Master,Business Administration,United Kingdom,Male,2021,Deferred
+STU001648,Diploma,Computer Science,United States,Female,2021,Active
+STU001649,Bachelor,Engineering,China,Male,2019,Graduated
+STU001650,Master,Law,China,Female,2023,Active
+STU001651,Master,Chemistry,India,Male,2019,Deferred
+STU001652,PhD,Mathematics,China,Male,2019,Active
+STU001653,PhD,Arts,Malaysia,Male,2024,Graduated
+STU001654,Foundation,Computer Science,United States,Male,2023,Active
+STU001655,Bachelor,Physics,United Kingdom,Female,2021,Active
+STU001656,Foundation,Arts,Japan,Female,2024,Active
+STU001657,Foundation,Biology,Vietnam,Male,2022,Deferred
+STU001658,PhD,Biology,South Korea,Male,2023,Active
+STU001659,PhD,Law,Singapore,Male,2019,Deferred
+STU001660,Diploma,Business Administration,Indonesia,Male,2022,Active
+STU001661,Diploma,Biology,Singapore,Female,2021,Graduated
+STU001662,Bachelor,Chemistry,United States,Female,2019,Active
+STU001663,Foundation,Chemistry,China,Female,2022,Active
+STU001664,Foundation,Medicine,Singapore,Male,2022,Graduated
+STU001665,Foundation,Biology,Japan,Male,2023,Graduated
+STU001666,Diploma,Psychology,United Kingdom,Female,2024,Active
+STU001667,Foundation,Biology,Singapore,Male,2022,Deferred
+STU001668,Foundation,Physics,China,Male,2020,Deferred
+STU001669,Foundation,Psychology,Singapore,Male,2020,Graduated
+STU001670,Foundation,Economics,Japan,Female,2021,Deferred
+STU001671,Bachelor,Chemistry,India,Female,2022,Graduated
+STU001672,Master,Psychology,India,Male,2022,Graduated
+STU001673,Master,Mathematics,Vietnam,Female,2024,Graduated
+STU001674,Diploma,Biology,Australia,Male,2022,Graduated
+STU001675,Diploma,Economics,United Kingdom,Female,2021,Deferred
+STU001676,Bachelor,Physics,Thailand,Male,2021,Active
+STU001677,Foundation,Biology,South Korea,Male,2022,Deferred
+STU001678,Diploma,Computer Science,South Korea,Female,2022,Active
+STU001679,PhD,Chemistry,Japan,Female,2021,Active
+STU001680,Bachelor,Computer Science,Japan,Male,2024,Graduated
+STU001681,Bachelor,Engineering,Indonesia,Male,2024,Graduated
+STU001682,Master,Arts,Malaysia,Female,2024,Deferred
+STU001683,Bachelor,Computer Science,Philippines,Female,2019,Active
+STU001684,Master,Biology,Canada,Male,2023,Active
+STU001685,Foundation,Physics,Malaysia,Male,2019,Deferred
+STU001686,Bachelor,Medicine,Vietnam,Female,2019,Active
+STU001687,Diploma,Engineering,Thailand,Male,2019,Graduated
+STU001688,Diploma,Business Administration,China,Male,2022,Active
+STU001689,PhD,Chemistry,United States,Male,2020,Active
+STU001690,Foundation,Medicine,Singapore,Male,2021,Deferred
+STU001691,Master,Engineering,Malaysia,Female,2023,Graduated
+STU001692,Master,Business Administration,Thailand,Female,2019,Graduated
+STU001693,Foundation,Mathematics,United States,Female,2019,Active
+STU001694,Master,Economics,China,Female,2020,Active
+STU001695,Master,Medicine,India,Male,2021,Active
+STU001696,Diploma,Mathematics,United Kingdom,Male,2020,Graduated
+STU001697,PhD,Mathematics,Philippines,Male,2024,Deferred
+STU001698,Master,Chemistry,Vietnam,Male,2021,Active
+STU001699,Master,Business Administration,Malaysia,Male,2022,Deferred
+STU001700,Bachelor,Mathematics,Japan,Male,2020,Active
+STU001701,PhD,Psychology,South Korea,Male,2021,Deferred
+STU001702,Diploma,Mathematics,Indonesia,Female,2023,Active
+STU001703,Master,Mathematics,United States,Female,2021,Deferred
+STU001704,Bachelor,Biology,Philippines,Female,2019,Active
+STU001705,Bachelor,Business Administration,China,Female,2024,Deferred
+STU001706,Bachelor,Mathematics,India,Male,2024,Graduated
+STU001707,Bachelor,Medicine,Singapore,Female,2021,Deferred
+STU001708,Bachelor,Biology,Canada,Male,2023,Active
+STU001709,PhD,Mathematics,Philippines,Male,2021,Deferred
+STU001710,Foundation,Medicine,Vietnam,Female,2024,Deferred
+STU001711,Diploma,Medicine,Indonesia,Female,2020,Deferred
+STU001712,Master,Arts,Malaysia,Female,2019,Deferred
+STU001713,Foundation,Physics,China,Female,2024,Graduated
+STU001714,Master,Biology,Indonesia,Male,2019,Active
+STU001715,Diploma,Chemistry,South Korea,Male,2020,Active
+STU001716,Diploma,Physics,Thailand,Female,2021,Deferred
+STU001717,PhD,Psychology,China,Male,2022,Active
+STU001718,Master,Computer Science,China,Female,2021,Deferred
+STU001719,Foundation,Arts,Australia,Male,2019,Deferred
+STU001720,Bachelor,Mathematics,Thailand,Male,2020,Graduated
+STU001721,Master,Mathematics,Australia,Male,2019,Active
+STU001722,Bachelor,Physics,Thailand,Female,2021,Active
+STU001723,Diploma,Chemistry,Vietnam,Male,2020,Deferred
+STU001724,Bachelor,Physics,Canada,Female,2024,Active
+STU001725,Master,Chemistry,China,Female,2021,Deferred
+STU001726,Bachelor,Computer Science,Singapore,Female,2019,Graduated
+STU001727,Diploma,Arts,Malaysia,Female,2021,Active
+STU001728,Foundation,Business Administration,Philippines,Female,2019,Deferred
+STU001729,Foundation,Psychology,Australia,Male,2023,Active
+STU001730,Foundation,Engineering,United Kingdom,Male,2023,Deferred
+STU001731,PhD,Biology,Canada,Male,2019,Deferred
+STU001732,Diploma,Biology,United States,Male,2021,Graduated
+STU001733,Foundation,Medicine,South Korea,Female,2019,Active
+STU001734,Foundation,Economics,Indonesia,Female,2022,Deferred
+STU001735,PhD,Business Administration,Australia,Male,2024,Deferred
+STU001736,Bachelor,Biology,United Kingdom,Female,2020,Graduated
+STU001737,PhD,Mathematics,South Korea,Female,2022,Deferred
+STU001738,Master,Engineering,South Korea,Female,2024,Graduated
+STU001739,Foundation,Physics,Canada,Male,2019,Graduated
+STU001740,Bachelor,Biology,Indonesia,Female,2023,Graduated
+STU001741,Bachelor,Biology,United Kingdom,Male,2022,Deferred
+STU001742,Bachelor,Economics,Thailand,Male,2020,Deferred
+STU001743,Foundation,Economics,Canada,Female,2023,Active
+STU001744,PhD,Biology,China,Female,2024,Graduated
+STU001745,PhD,Biology,Malaysia,Female,2022,Active
+STU001746,Diploma,Chemistry,Singapore,Female,2023,Active
+STU001747,PhD,Chemistry,South Korea,Female,2021,Graduated
+STU001748,PhD,Physics,United States,Female,2024,Deferred
+STU001749,PhD,Engineering,Vietnam,Female,2019,Deferred
+STU001750,Master,Arts,Philippines,Female,2024,Active
+STU001751,PhD,Computer Science,Philippines,Male,2023,Active
+STU001752,Diploma,Psychology,United States,Male,2019,Graduated
+STU001753,Diploma,Psychology,Philippines,Female,2024,Graduated
+STU001754,Foundation,Physics,Thailand,Male,2021,Graduated
+STU001755,Diploma,Medicine,Canada,Female,2023,Graduated
+STU001756,Diploma,Economics,United States,Male,2019,Graduated
+STU001757,PhD,Mathematics,Thailand,Male,2024,Graduated
+STU001758,Foundation,Computer Science,United Kingdom,Male,2021,Active
+STU001759,PhD,Computer Science,Malaysia,Female,2020,Active
+STU001760,Bachelor,Business Administration,United Kingdom,Male,2019,Graduated
+STU001761,Diploma,Psychology,Japan,Female,2020,Deferred
+STU001762,Foundation,Mathematics,Indonesia,Female,2022,Graduated
+STU001763,Diploma,Biology,Australia,Male,2019,Active
+STU001764,Foundation,Computer Science,United States,Male,2024,Deferred
+STU001765,Foundation,Biology,Singapore,Female,2020,Active
+STU001766,PhD,Mathematics,China,Female,2019,Graduated
+STU001767,Bachelor,Computer Science,Australia,Male,2022,Active
+STU001768,Diploma,Psychology,Australia,Male,2023,Graduated
+STU001769,Bachelor,Medicine,Australia,Male,2020,Deferred
+STU001770,Diploma,Business Administration,United Kingdom,Male,2022,Active
+STU001771,Diploma,Law,Indonesia,Female,2023,Active
+STU001772,Master,Arts,Indonesia,Male,2020,Deferred
+STU001773,Master,Chemistry,United States,Female,2019,Deferred
+STU001774,Bachelor,Arts,Indonesia,Female,2020,Graduated
+STU001775,Bachelor,Psychology,Thailand,Female,2020,Deferred
+STU001776,Bachelor,Medicine,India,Male,2020,Graduated
+STU001777,Master,Business Administration,Vietnam,Male,2023,Graduated
+STU001778,Diploma,Law,Philippines,Female,2023,Active
+STU001779,PhD,Chemistry,Australia,Male,2021,Active
+STU001780,Master,Economics,Philippines,Female,2020,Graduated
+STU001781,Bachelor,Chemistry,Japan,Male,2024,Graduated
+STU001782,Master,Medicine,Philippines,Female,2022,Deferred
+STU001783,Bachelor,Business Administration,Japan,Male,2019,Deferred
+STU001784,Bachelor,Physics,Singapore,Female,2023,Graduated
+STU001785,Foundation,Business Administration,Indonesia,Female,2019,Deferred
+STU001786,Master,Law,Malaysia,Female,2020,Deferred
+STU001787,Foundation,Computer Science,United Kingdom,Female,2022,Active
+STU001788,Bachelor,Mathematics,Australia,Female,2022,Deferred
+STU001789,Bachelor,Business Administration,Philippines,Female,2019,Graduated
+STU001790,PhD,Psychology,Indonesia,Female,2021,Deferred
+STU001791,Master,Medicine,Indonesia,Female,2024,Graduated
+STU001792,Master,Psychology,Indonesia,Female,2021,Deferred
+STU001793,PhD,Mathematics,Indonesia,Female,2021,Active
+STU001794,Diploma,Business Administration,Indonesia,Male,2022,Active
+STU001795,PhD,Law,Indonesia,Male,2019,Deferred
+STU001796,Bachelor,Business Administration,Malaysia,Male,2019,Deferred
+STU001797,Bachelor,Arts,United States,Male,2020,Deferred
+STU001798,Foundation,Physics,India,Male,2019,Graduated
+STU001799,Diploma,Law,Vietnam,Female,2023,Active
+STU001800,Bachelor,Chemistry,United States,Male,2019,Active
+STU001801,Foundation,Business Administration,Indonesia,Male,2022,Deferred
+STU001802,Bachelor,Physics,South Korea,Female,2020,Deferred
+STU001803,Diploma,Physics,United Kingdom,Male,2022,Deferred
+STU001804,Master,Physics,Canada,Male,2021,Deferred
+STU001805,Diploma,Law,Philippines,Male,2023,Graduated
+STU001806,PhD,Psychology,Thailand,Male,2023,Graduated
+STU001807,Bachelor,Arts,Thailand,Male,2022,Graduated
+STU001808,Diploma,Mathematics,Vietnam,Male,2023,Deferred
+STU001809,Diploma,Engineering,United Kingdom,Female,2020,Deferred
+STU001810,Diploma,Biology,Indonesia,Female,2019,Graduated
+STU001811,Foundation,Computer Science,Canada,Male,2019,Active
+STU001812,Foundation,Engineering,Australia,Male,2023,Active
+STU001813,Bachelor,Business Administration,Australia,Female,2019,Graduated
+STU001814,Foundation,Engineering,Philippines,Male,2021,Deferred
+STU001815,Diploma,Mathematics,Singapore,Female,2020,Graduated
+STU001816,Master,Medicine,Malaysia,Female,2024,Deferred
+STU001817,Diploma,Physics,United Kingdom,Male,2023,Deferred
+STU001818,Bachelor,Engineering,Japan,Female,2022,Active
+STU001819,PhD,Engineering,Indonesia,Female,2024,Graduated
+STU001820,Bachelor,Arts,Malaysia,Female,2024,Deferred
+STU001821,PhD,Business Administration,Canada,Female,2023,Deferred
+STU001822,Bachelor,Arts,Malaysia,Male,2019,Deferred
+STU001823,PhD,Economics,Malaysia,Female,2023,Graduated
+STU001824,Foundation,Computer Science,Thailand,Male,2023,Active
+STU001825,Master,Physics,Japan,Male,2020,Deferred
+STU001826,Foundation,Chemistry,Malaysia,Female,2023,Deferred
+STU001827,Master,Business Administration,Vietnam,Male,2024,Active
+STU001828,PhD,Engineering,Malaysia,Male,2020,Deferred
+STU001829,Foundation,Arts,China,Male,2023,Active
+STU001830,Bachelor,Law,India,Male,2019,Active
+STU001831,Diploma,Arts,Philippines,Female,2023,Active
+STU001832,Foundation,Chemistry,United Kingdom,Female,2023,Active
+STU001833,Master,Physics,South Korea,Female,2020,Active
+STU001834,Bachelor,Economics,United Kingdom,Female,2023,Deferred
+STU001835,Diploma,Medicine,South Korea,Female,2022,Active
+STU001836,PhD,Psychology,Malaysia,Male,2022,Active
+STU001837,Foundation,Engineering,Vietnam,Female,2022,Active
+STU001838,Foundation,Medicine,Australia,Male,2019,Deferred
+STU001839,Foundation,Physics,Australia,Female,2019,Graduated
+STU001840,Bachelor,Business Administration,Thailand,Female,2019,Active
+STU001841,Bachelor,Engineering,South Korea,Male,2024,Graduated
+STU001842,Bachelor,Medicine,Thailand,Male,2019,Deferred
+STU001843,PhD,Chemistry,Australia,Male,2022,Graduated
+STU001844,Diploma,Psychology,Canada,Male,2021,Graduated
+STU001845,Diploma,Biology,Vietnam,Female,2021,Graduated
+STU001846,Foundation,Business Administration,Malaysia,Female,2024,Active
+STU001847,Master,Chemistry,Australia,Female,2022,Active
+STU001848,Bachelor,Medicine,China,Female,2022,Active
+STU001849,PhD,Computer Science,Vietnam,Male,2019,Deferred
+STU001850,Foundation,Medicine,Australia,Male,2020,Deferred
+STU001851,Diploma,Computer Science,Singapore,Female,2023,Deferred
+STU001852,Master,Psychology,Canada,Female,2023,Active
+STU001853,Bachelor,Engineering,China,Female,2024,Graduated
+STU001854,PhD,Law,Australia,Female,2020,Active
+STU001855,Bachelor,Chemistry,Thailand,Male,2019,Active
+STU001856,Foundation,Economics,South Korea,Female,2022,Active
+STU001857,Bachelor,Economics,Thailand,Male,2023,Active
+STU001858,Master,Computer Science,Vietnam,Female,2019,Active
+STU001859,PhD,Psychology,Malaysia,Female,2022,Deferred
+STU001860,Master,Chemistry,Canada,Male,2021,Graduated
+STU001861,Master,Arts,China,Male,2023,Deferred
+STU001862,PhD,Physics,Vietnam,Female,2019,Active
+STU001863,Foundation,Engineering,United States,Male,2023,Graduated
+STU001864,PhD,Engineering,Vietnam,Male,2021,Deferred
+STU001865,Diploma,Physics,Singapore,Male,2019,Graduated
+STU001866,Foundation,Biology,United States,Female,2020,Deferred
+STU001867,Diploma,Psychology,Thailand,Female,2020,Active
+STU001868,Diploma,Psychology,Japan,Male,2020,Graduated
+STU001869,PhD,Arts,Canada,Female,2020,Graduated
+STU001870,Bachelor,Psychology,Singapore,Male,2023,Graduated
+STU001871,PhD,Medicine,United States,Male,2019,Active
+STU001872,Bachelor,Mathematics,South Korea,Male,2023,Deferred
+STU001873,Foundation,Mathematics,Philippines,Male,2019,Deferred
+STU001874,Master,Physics,Vietnam,Female,2019,Deferred
+STU001875,Foundation,Computer Science,Canada,Male,2021,Graduated
+STU001876,Bachelor,Economics,United Kingdom,Male,2023,Active
+STU001877,Bachelor,Arts,Australia,Female,2023,Deferred
+STU001878,Foundation,Law,United States,Male,2019,Active
+STU001879,Bachelor,Psychology,Philippines,Female,2019,Deferred
+STU001880,PhD,Computer Science,Thailand,Female,2021,Graduated
+STU001881,Master,Psychology,Malaysia,Male,2021,Active
+STU001882,PhD,Biology,Malaysia,Female,2019,Deferred
+STU001883,Foundation,Medicine,Singapore,Female,2022,Active
+STU001884,Diploma,Psychology,Malaysia,Female,2022,Graduated
+STU001885,Bachelor,Arts,India,Female,2022,Graduated
+STU001886,Master,Business Administration,Australia,Female,2022,Deferred
+STU001887,Master,Mathematics,Malaysia,Female,2022,Active
+STU001888,Foundation,Medicine,Malaysia,Male,2019,Deferred
+STU001889,Diploma,Law,South Korea,Male,2021,Graduated
+STU001890,Bachelor,Law,China,Male,2021,Active
+STU001891,Foundation,Law,Philippines,Female,2024,Graduated
+STU001892,Master,Economics,Canada,Female,2020,Graduated
+STU001893,PhD,Law,Thailand,Male,2024,Deferred
+STU001894,Foundation,Arts,Japan,Male,2019,Active
+STU001895,Master,Engineering,Singapore,Male,2021,Graduated
+STU001896,PhD,Medicine,United States,Male,2024,Active
+STU001897,Master,Law,Singapore,Male,2022,Active
+STU001898,Master,Medicine,Indonesia,Female,2020,Graduated
+STU001899,Foundation,Psychology,United Kingdom,Female,2024,Graduated
+STU001900,Master,Business Administration,Philippines,Male,2019,Graduated
+STU001901,Master,Psychology,China,Female,2023,Active
+STU001902,Diploma,Economics,China,Female,2024,Active
+STU001903,Foundation,Medicine,Japan,Male,2021,Deferred
+STU001904,PhD,Psychology,Vietnam,Male,2019,Deferred
+STU001905,PhD,Law,China,Female,2022,Active
+STU001906,Foundation,Economics,United States,Female,2023,Active
+STU001907,Master,Computer Science,Malaysia,Male,2023,Graduated
+STU001908,Bachelor,Psychology,United Kingdom,Male,2022,Deferred
+STU001909,PhD,Chemistry,Vietnam,Female,2023,Graduated
+STU001910,Master,Law,Thailand,Male,2024,Deferred
+STU001911,Master,Engineering,Thailand,Male,2021,Deferred
+STU001912,Foundation,Mathematics,China,Male,2020,Graduated
+STU001913,Master,Mathematics,United States,Female,2021,Active
+STU001914,Foundation,Medicine,Malaysia,Female,2023,Deferred
+STU001915,Bachelor,Business Administration,Philippines,Male,2022,Deferred
+STU001916,Bachelor,Mathematics,Vietnam,Male,2024,Deferred
+STU001917,Master,Economics,Singapore,Male,2024,Deferred
+STU001918,Diploma,Engineering,United Kingdom,Male,2021,Deferred
+STU001919,Diploma,Biology,United States,Male,2023,Graduated
+STU001920,Master,Business Administration,Vietnam,Male,2020,Deferred
+STU001921,Diploma,Mathematics,Vietnam,Female,2022,Active
+STU001922,Diploma,Chemistry,Vietnam,Male,2024,Active
+STU001923,Master,Computer Science,China,Female,2023,Deferred
+STU001924,Diploma,Law,United States,Female,2020,Deferred
+STU001925,Diploma,Computer Science,United States,Male,2020,Deferred
+STU001926,PhD,Law,Indonesia,Male,2022,Active
+STU001927,Foundation,Business Administration,United States,Female,2019,Deferred
+STU001928,Bachelor,Biology,United States,Male,2020,Graduated
+STU001929,PhD,Economics,Thailand,Female,2019,Deferred
+STU001930,Bachelor,Chemistry,Japan,Female,2019,Active
+STU001931,Foundation,Arts,Malaysia,Male,2024,Graduated
+STU001932,PhD,Biology,United Kingdom,Male,2024,Active
+STU001933,Master,Physics,India,Male,2022,Deferred
+STU001934,Master,Law,Japan,Male,2019,Deferred
+STU001935,PhD,Economics,China,Male,2019,Deferred
+STU001936,PhD,Business Administration,Philippines,Male,2024,Deferred
+STU001937,Bachelor,Computer Science,Singapore,Male,2022,Deferred
+STU001938,PhD,Law,Indonesia,Female,2024,Active
+STU001939,Foundation,Business Administration,Australia,Female,2022,Active
+STU001940,Diploma,Mathematics,Vietnam,Male,2024,Deferred
+STU001941,Master,Law,China,Female,2024,Graduated
+STU001942,Bachelor,Computer Science,South Korea,Female,2019,Graduated
+STU001943,Master,Computer Science,United Kingdom,Female,2021,Active
+STU001944,Foundation,Engineering,Malaysia,Female,2020,Active
+STU001945,Bachelor,Arts,India,Female,2024,Graduated
+STU001946,Diploma,Law,Malaysia,Male,2023,Deferred
+STU001947,Bachelor,Physics,Canada,Male,2023,Graduated
+STU001948,PhD,Law,Philippines,Male,2021,Graduated
+STU001949,Bachelor,Physics,Indonesia,Male,2021,Graduated
+STU001950,PhD,Chemistry,United Kingdom,Female,2019,Deferred
+STU001951,Foundation,Engineering,United States,Female,2024,Deferred
+STU001952,Master,Computer Science,China,Male,2022,Active
+STU001953,Foundation,Psychology,India,Male,2019,Graduated
+STU001954,Diploma,Biology,South Korea,Female,2022,Graduated
+STU001955,Diploma,Chemistry,United Kingdom,Male,2023,Deferred
+STU001956,Master,Psychology,Japan,Male,2024,Deferred
+STU001957,Foundation,Biology,Singapore,Male,2024,Graduated
+STU001958,Foundation,Engineering,Thailand,Female,2023,Deferred
+STU001959,PhD,Engineering,United Kingdom,Female,2019,Graduated
+STU001960,Bachelor,Chemistry,Japan,Male,2020,Deferred
+STU001961,Bachelor,Medicine,Singapore,Male,2022,Graduated
+STU001962,PhD,Economics,Philippines,Female,2024,Deferred
+STU001963,Diploma,Law,Singapore,Male,2019,Active
+STU001964,Foundation,Biology,South Korea,Male,2024,Deferred
+STU001965,Foundation,Arts,Vietnam,Male,2024,Active
+STU001966,PhD,Psychology,Japan,Male,2020,Graduated
+STU001967,Diploma,Physics,Singapore,Female,2022,Active
+STU001968,PhD,Medicine,South Korea,Female,2023,Active
+STU001969,Master,Engineering,Vietnam,Female,2019,Active
+STU001970,Bachelor,Computer Science,Japan,Male,2023,Deferred
+STU001971,Diploma,Arts,South Korea,Female,2019,Active
+STU001972,PhD,Engineering,Philippines,Female,2023,Deferred
+STU001973,PhD,Economics,Malaysia,Female,2020,Active
+STU001974,Foundation,Mathematics,Philippines,Female,2024,Graduated
+STU001975,PhD,Computer Science,United States,Female,2019,Active
+STU001976,Diploma,Arts,Japan,Male,2024,Active
+STU001977,Bachelor,Physics,Singapore,Male,2021,Active
+STU001978,PhD,Arts,Australia,Female,2023,Active
+STU001979,Master,Economics,Vietnam,Male,2019,Active
+STU001980,PhD,Economics,Canada,Female,2024,Active
+STU001981,Foundation,Business Administration,Canada,Female,2021,Deferred
+STU001982,PhD,Business Administration,Singapore,Male,2023,Graduated
+STU001983,Foundation,Physics,Vietnam,Female,2022,Graduated
+STU001984,Diploma,Computer Science,Philippines,Male,2023,Graduated
+STU001985,PhD,Economics,Malaysia,Female,2024,Active
+STU001986,Master,Mathematics,Canada,Female,2021,Deferred
+STU001987,Bachelor,Mathematics,Philippines,Female,2023,Graduated
+STU001988,PhD,Chemistry,South Korea,Female,2021,Graduated
+STU001989,Diploma,Economics,Japan,Female,2024,Graduated
+STU001990,Master,Business Administration,Singapore,Male,2023,Deferred
+STU001991,PhD,Physics,Thailand,Female,2024,Active
+STU001992,Diploma,Engineering,India,Male,2022,Graduated
+STU001993,PhD,Arts,India,Male,2021,Deferred
+STU001994,Diploma,Arts,Canada,Male,2021,Deferred
+STU001995,Diploma,Physics,Vietnam,Male,2023,Active
+STU001996,PhD,Psychology,India,Female,2021,Graduated
+STU001997,PhD,Medicine,Philippines,Male,2023,Deferred
+STU001998,Foundation,Biology,Japan,Male,2020,Active
+STU001999,Foundation,Chemistry,Thailand,Female,2021,Active
+STU002000,Foundation,Chemistry,Philippines,Female,2023,Active
